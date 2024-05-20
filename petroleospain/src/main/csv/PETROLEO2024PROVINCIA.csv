@@ -1,0 +1,1457 @@
+﻿id;fecha;ccaa;provincia;tipo_producto;consumo
+1;ene-24;Andalucia;Almeria;BIODIESEL;0
+2;ene-24;Andalucia;Almeria;GASOLEO A;26252
+3;ene-24;Andalucia;Almeria;GASOLEO B;6073
+4;ene-24;Andalucia;Almeria;GASOLEO C;439
+5;ene-24;Andalucia;Almeria;OTROS GASOLEOS;1277
+6;ene-24;Andalucia;Almeria;BIOETANOL;0
+7;ene-24;Andalucia;Almeria;GASOLINA  AUTO. S/PB 95 i.O.;5070
+8;ene-24;Andalucia;Almeria;GASOLINA  AUTO. S/PB 98 i.O.;248
+9;ene-24;Andalucia;Almeria;OTRAS GASOLINAS;1
+10;ene-24;Andalucia;Almeria;FUELOLEO  BIA;187
+11;ene-24;Andalucia;Almeria;OTROS FUELOLEOS;1467
+12;ene-24;Andalucia;Almeria;QUEROSENO AVIACION;238
+13;ene-24;Andalucia;Almeria;OTROS QUEROSENOS;0
+14;ene-24;Andalucia;Almeria;GLP;2774
+15;ene-24;Andalucia;Cadiz;BIODIESEL;23
+16;ene-24;Andalucia;Cadiz;GASOLEO A;31689
+17;ene-24;Andalucia;Cadiz;GASOLEO B;6412
+18;ene-24;Andalucia;Cadiz;GASOLEO C;587
+19;ene-24;Andalucia;Cadiz;OTROS GASOLEOS;89595
+20;ene-24;Andalucia;Cadiz;BIOETANOL;0
+21;ene-24;Andalucia;Cadiz;GASOLINA  AUTO. S/PB 95 i.O.;10254
+22;ene-24;Andalucia;Cadiz;GASOLINA  AUTO. S/PB 98 i.O.;333
+23;ene-24;Andalucia;Cadiz;OTRAS GASOLINAS;33
+24;ene-24;Andalucia;Cadiz;FUELOLEO  BIA;0
+25;ene-24;Andalucia;Cadiz;OTROS FUELOLEOS;320595
+26;ene-24;Andalucia;Cadiz;QUEROSENO AVIACION;474
+27;ene-24;Andalucia;Cadiz;OTROS QUEROSENOS;0
+28;ene-24;Andalucia;Cadiz;GLP;4185
+29;ene-24;Andalucia;Cordoba;BIODIESEL;7
+30;ene-24;Andalucia;Cordoba;GASOLEO A;33156
+31;ene-24;Andalucia;Cordoba;GASOLEO B;8410
+32;ene-24;Andalucia;Cordoba;GASOLEO C;1082
+33;ene-24;Andalucia;Cordoba;OTROS GASOLEOS;0
+34;ene-24;Andalucia;Cordoba;BIOETANOL;0
+35;ene-24;Andalucia;Cordoba;GASOLINA  AUTO. S/PB 95 i.O.;5107
+36;ene-24;Andalucia;Cordoba;GASOLINA  AUTO. S/PB 98 i.O.;120
+37;ene-24;Andalucia;Cordoba;OTRAS GASOLINAS;7
+38;ene-24;Andalucia;Cordoba;FUELOLEO  BIA;35
+39;ene-24;Andalucia;Cordoba;OTROS FUELOLEOS;0
+40;ene-24;Andalucia;Cordoba;QUEROSENO AVIACION;15
+41;ene-24;Andalucia;Cordoba;OTROS QUEROSENOS;0
+42;ene-24;Andalucia;Cordoba;GLP;2912
+43;ene-24;Andalucia;Granada;BIODIESEL;0
+44;ene-24;Andalucia;Granada;GASOLEO A;37395
+45;ene-24;Andalucia;Granada;GASOLEO B;7347
+46;ene-24;Andalucia;Granada;GASOLEO C;4205
+47;ene-24;Andalucia;Granada;OTROS GASOLEOS;362
+48;ene-24;Andalucia;Granada;BIOETANOL;0
+49;ene-24;Andalucia;Granada;GASOLINA  AUTO. S/PB 95 i.O.;8107
+50;ene-24;Andalucia;Granada;GASOLINA  AUTO. S/PB 98 i.O.;326
+51;ene-24;Andalucia;Granada;OTRAS GASOLINAS;1
+52;ene-24;Andalucia;Granada;FUELOLEO  BIA;177
+53;ene-24;Andalucia;Granada;OTROS FUELOLEOS;665
+54;ene-24;Andalucia;Granada;QUEROSENO AVIACION;1072
+55;ene-24;Andalucia;Granada;OTROS QUEROSENOS;0
+56;ene-24;Andalucia;Granada;GLP;4204
+57;ene-24;Andalucia;Huelva;BIODIESEL;0
+58;ene-24;Andalucia;Huelva;GASOLEO A;23881
+59;ene-24;Andalucia;Huelva;GASOLEO B;7988
+60;ene-24;Andalucia;Huelva;GASOLEO C;299
+61;ene-24;Andalucia;Huelva;OTROS GASOLEOS;1028
+62;ene-24;Andalucia;Huelva;BIOETANOL;0
+63;ene-24;Andalucia;Huelva;GASOLINA  AUTO. S/PB 95 i.O.;4279
+64;ene-24;Andalucia;Huelva;GASOLINA  AUTO. S/PB 98 i.O.;101
+65;ene-24;Andalucia;Huelva;OTRAS GASOLINAS;0
+66;ene-24;Andalucia;Huelva;FUELOLEO  BIA;619
+67;ene-24;Andalucia;Huelva;OTROS FUELOLEOS;570
+68;ene-24;Andalucia;Huelva;QUEROSENO AVIACION;0
+69;ene-24;Andalucia;Huelva;OTROS QUEROSENOS;0
+70;ene-24;Andalucia;Huelva;GLP;2880
+71;ene-24;Andalucia;Jaen;BIODIESEL;36
+72;ene-24;Andalucia;Jaen;GASOLEO A;25778
+73;ene-24;Andalucia;Jaen;GASOLEO B;4908
+74;ene-24;Andalucia;Jaen;GASOLEO C;1946
+75;ene-24;Andalucia;Jaen;OTROS GASOLEOS;0
+76;ene-24;Andalucia;Jaen;BIOETANOL;0
+77;ene-24;Andalucia;Jaen;GASOLINA  AUTO. S/PB 95 i.O.;4780
+78;ene-24;Andalucia;Jaen;GASOLINA  AUTO. S/PB 98 i.O.;124
+79;ene-24;Andalucia;Jaen;OTRAS GASOLINAS;0
+80;ene-24;Andalucia;Jaen;FUELOLEO  BIA;26
+81;ene-24;Andalucia;Jaen;OTROS FUELOLEOS;0
+82;ene-24;Andalucia;Jaen;QUEROSENO AVIACION;10
+83;ene-24;Andalucia;Jaen;OTROS QUEROSENOS;0
+84;ene-24;Andalucia;Jaen;GLP;1899
+85;ene-24;Andalucia;Malaga;BIODIESEL;0
+86;ene-24;Andalucia;Malaga;GASOLEO A;43911
+87;ene-24;Andalucia;Malaga;GASOLEO B;4754
+88;ene-24;Andalucia;Malaga;GASOLEO C;538
+89;ene-24;Andalucia;Malaga;OTROS GASOLEOS;1022
+90;ene-24;Andalucia;Malaga;BIOETANOL;0
+91;ene-24;Andalucia;Malaga;GASOLINA  AUTO. S/PB 95 i.O.;16497
+92;ene-24;Andalucia;Malaga;GASOLINA  AUTO. S/PB 98 i.O.;1038
+93;ene-24;Andalucia;Malaga;OTRAS GASOLINAS;14
+94;ene-24;Andalucia;Malaga;FUELOLEO  BIA;27
+95;ene-24;Andalucia;Malaga;OTROS FUELOLEOS;1097
+96;ene-24;Andalucia;Malaga;QUEROSENO AVIACION;32026
+97;ene-24;Andalucia;Malaga;OTROS QUEROSENOS;0
+98;ene-24;Andalucia;Malaga;GLP;6387
+99;ene-24;Andalucia;Sevilla;BIODIESEL;26
+100;ene-24;Andalucia;Sevilla;GASOLEO A;53767
+101;ene-24;Andalucia;Sevilla;GASOLEO B;8176
+102;ene-24;Andalucia;Sevilla;GASOLEO C;836
+103;ene-24;Andalucia;Sevilla;OTROS GASOLEOS;1023
+104;ene-24;Andalucia;Sevilla;BIOETANOL;0
+105;ene-24;Andalucia;Sevilla;GASOLINA  AUTO. S/PB 95 i.O.;14305
+106;ene-24;Andalucia;Sevilla;GASOLINA  AUTO. S/PB 98 i.O.;298
+107;ene-24;Andalucia;Sevilla;OTRAS GASOLINAS;3
+108;ene-24;Andalucia;Sevilla;FUELOLEO  BIA;355
+109;ene-24;Andalucia;Sevilla;OTROS FUELOLEOS;561
+110;ene-24;Andalucia;Sevilla;QUEROSENO AVIACION;10967
+111;ene-24;Andalucia;Sevilla;OTROS QUEROSENOS;0
+112;ene-24;Andalucia;Sevilla;GLP;5841
+113;ene-24;Aragon;Huesca;BIODIESEL;0
+114;ene-24;Aragon;Huesca;GASOLEO A;13158
+115;ene-24;Aragon;Huesca;GASOLEO B;7135
+116;ene-24;Aragon;Huesca;GASOLEO C;2459
+117;ene-24;Aragon;Huesca;OTROS GASOLEOS;0
+118;ene-24;Aragon;Huesca;BIOETANOL;0
+119;ene-24;Aragon;Huesca;GASOLINA  AUTO. S/PB 95 i.O.;2773
+120;ene-24;Aragon;Huesca;GASOLINA  AUTO. S/PB 98 i.O.;130
+121;ene-24;Aragon;Huesca;OTRAS GASOLINAS;4
+122;ene-24;Aragon;Huesca;FUELOLEO  BIA;0
+123;ene-24;Aragon;Huesca;OTROS FUELOLEOS;0
+124;ene-24;Aragon;Huesca;QUEROSENO AVIACION;0
+125;ene-24;Aragon;Huesca;OTROS QUEROSENOS;0
+126;ene-24;Aragon;Huesca;GLP;3310
+127;ene-24;Aragon;Teruel;BIODIESEL;0
+128;ene-24;Aragon;Teruel;GASOLEO A;7781
+129;ene-24;Aragon;Teruel;GASOLEO B;3981
+130;ene-24;Aragon;Teruel;GASOLEO C;2645
+131;ene-24;Aragon;Teruel;OTROS GASOLEOS;0
+132;ene-24;Aragon;Teruel;BIOETANOL;0
+133;ene-24;Aragon;Teruel;GASOLINA  AUTO. S/PB 95 i.O.;1303
+134;ene-24;Aragon;Teruel;GASOLINA  AUTO. S/PB 98 i.O.;47
+135;ene-24;Aragon;Teruel;OTRAS GASOLINAS;0
+136;ene-24;Aragon;Teruel;FUELOLEO  BIA;96
+137;ene-24;Aragon;Teruel;OTROS FUELOLEOS;0
+138;ene-24;Aragon;Teruel;QUEROSENO AVIACION;55
+139;ene-24;Aragon;Teruel;OTROS QUEROSENOS;0
+140;ene-24;Aragon;Teruel;GLP;876
+141;ene-24;Aragon;Zaragoza;BIODIESEL;78
+142;ene-24;Aragon;Zaragoza;GASOLEO A;40290
+143;ene-24;Aragon;Zaragoza;GASOLEO B;10770
+144;ene-24;Aragon;Zaragoza;GASOLEO C;10183
+145;ene-24;Aragon;Zaragoza;OTROS GASOLEOS;17
+146;ene-24;Aragon;Zaragoza;BIOETANOL;0
+147;ene-24;Aragon;Zaragoza;GASOLINA  AUTO. S/PB 95 i.O.;8168
+148;ene-24;Aragon;Zaragoza;GASOLINA  AUTO. S/PB 98 i.O.;256
+149;ene-24;Aragon;Zaragoza;OTRAS GASOLINAS;1
+150;ene-24;Aragon;Zaragoza;FUELOLEO  BIA;6
+151;ene-24;Aragon;Zaragoza;OTROS FUELOLEOS;0
+152;ene-24;Aragon;Zaragoza;QUEROSENO AVIACION;6495
+153;ene-24;Aragon;Zaragoza;OTROS QUEROSENOS;0
+154;ene-24;Aragon;Zaragoza;GLP;3003
+155;ene-24;Principado de Asturias;Asturias;BIODIESEL;0
+156;ene-24;Principado de Asturias;Asturias;GASOLEO A;30981
+157;ene-24;Principado de Asturias;Asturias;GASOLEO B;7035
+158;ene-24;Principado de Asturias;Asturias;GASOLEO C;5137
+159;ene-24;Principado de Asturias;Asturias;OTROS GASOLEOS;3314
+160;ene-24;Principado de Asturias;Asturias;BIOETANOL;0
+161;ene-24;Principado de Asturias;Asturias;GASOLINA  AUTO. S/PB 95 i.O.;7918
+162;ene-24;Principado de Asturias;Asturias;GASOLINA  AUTO. S/PB 98 i.O.;420
+163;ene-24;Principado de Asturias;Asturias;OTRAS GASOLINAS;1
+164;ene-24;Principado de Asturias;Asturias;FUELOLEO  BIA;607
+165;ene-24;Principado de Asturias;Asturias;OTROS FUELOLEOS;321
+166;ene-24;Principado de Asturias;Asturias;QUEROSENO AVIACION;997
+167;ene-24;Principado de Asturias;Asturias;OTROS QUEROSENOS;0
+168;ene-24;Principado de Asturias;Asturias;GLP;3597
+169;ene-24;Islas Baleares;Islas Baleares;BIODIESEL;0
+170;ene-24;Islas Baleares;Islas Baleares;GASOLEO A;22011
+171;ene-24;Islas Baleares;Islas Baleares;GASOLEO B;3505
+172;ene-24;Islas Baleares;Islas Baleares;GASOLEO C;18902
+173;ene-24;Islas Baleares;Islas Baleares;OTROS GASOLEOS;2010
+174;ene-24;Islas Baleares;Islas Baleares;BIOETANOL;0
+175;ene-24;Islas Baleares;Islas Baleares;GASOLINA  AUTO. S/PB 95 i.O.;14938
+176;ene-24;Islas Baleares;Islas Baleares;GASOLINA  AUTO. S/PB 98 i.O.;609
+177;ene-24;Islas Baleares;Islas Baleares;OTRAS GASOLINAS;15
+178;ene-24;Islas Baleares;Islas Baleares;FUELOLEO  BIA;0
+179;ene-24;Islas Baleares;Islas Baleares;OTROS FUELOLEOS;0
+180;ene-24;Islas Baleares;Islas Baleares;QUEROSENO AVIACION;13869
+181;ene-24;Islas Baleares;Islas Baleares;OTROS QUEROSENOS;0
+182;ene-24;Islas Baleares;Islas Baleares;GLP;4589
+183;ene-24;Canarias;Las Palmas;BIODIESEL;0
+184;ene-24;Canarias;Las Palmas;GASOLEO A;28178
+185;ene-24;Canarias;Las Palmas;GASOLEO B;0
+186;ene-24;Canarias;Las Palmas;GASOLEO C;0
+187;ene-24;Canarias;Las Palmas;OTROS GASOLEOS;140264
+188;ene-24;Canarias;Las Palmas;BIOETANOL;0
+189;ene-24;Canarias;Las Palmas;GASOLINA  AUTO. S/PB 95 i.O.;19341
+190;ene-24;Canarias;Las Palmas;GASOLINA  AUTO. S/PB 98 i.O.;3345
+191;ene-24;Canarias;Las Palmas;OTRAS GASOLINAS;4
+192;ene-24;Canarias;Las Palmas;FUELOLEO  BIA;62862
+193;ene-24;Canarias;Las Palmas;OTROS FUELOLEOS;83329
+194;ene-24;Canarias;Las Palmas;QUEROSENO AVIACION;55850
+195;ene-24;Canarias;Las Palmas;OTROS QUEROSENOS;0
+196;ene-24;Canarias;Las Palmas;GLP;3496
+197;ene-24;Canarias;Santa Cruz de Tenerife;BIODIESEL;0
+198;ene-24;Canarias;Santa Cruz de Tenerife;GASOLEO A;28240
+199;ene-24;Canarias;Santa Cruz de Tenerife;GASOLEO B;0
+200;ene-24;Canarias;Santa Cruz de Tenerife;GASOLEO C;0
+201;ene-24;Canarias;Santa Cruz de Tenerife;OTROS GASOLEOS;58473
+202;ene-24;Canarias;Santa Cruz de Tenerife;BIOETANOL;0
+203;ene-24;Canarias;Santa Cruz de Tenerife;GASOLINA  AUTO. S/PB 95 i.O.;18371
+204;ene-24;Canarias;Santa Cruz de Tenerife;GASOLINA  AUTO. S/PB 98 i.O.;5151
+205;ene-24;Canarias;Santa Cruz de Tenerife;OTRAS GASOLINAS;1
+206;ene-24;Canarias;Santa Cruz de Tenerife;FUELOLEO  BIA;21170
+207;ene-24;Canarias;Santa Cruz de Tenerife;OTROS FUELOLEOS;27011
+208;ene-24;Canarias;Santa Cruz de Tenerife;QUEROSENO AVIACION;52904
+209;ene-24;Canarias;Santa Cruz de Tenerife;OTROS QUEROSENOS;0
+210;ene-24;Canarias;Santa Cruz de Tenerife;GLP;4049
+211;ene-24;Cantabria;Cantabria;BIODIESEL;0
+212;ene-24;Cantabria;Cantabria;GASOLEO A;22571
+213;ene-24;Cantabria;Cantabria;GASOLEO B;5556
+214;ene-24;Cantabria;Cantabria;GASOLEO C;385
+215;ene-24;Cantabria;Cantabria;OTROS GASOLEOS;930
+216;ene-24;Cantabria;Cantabria;BIOETANOL;0
+217;ene-24;Cantabria;Cantabria;GASOLINA  AUTO. S/PB 95 i.O.;5694
+218;ene-24;Cantabria;Cantabria;GASOLINA  AUTO. S/PB 98 i.O.;230
+219;ene-24;Cantabria;Cantabria;OTRAS GASOLINAS;0
+220;ene-24;Cantabria;Cantabria;FUELOLEO  BIA;610
+221;ene-24;Cantabria;Cantabria;OTROS FUELOLEOS;25
+222;ene-24;Cantabria;Cantabria;QUEROSENO AVIACION;572
+223;ene-24;Cantabria;Cantabria;OTROS QUEROSENOS;0
+224;ene-24;Cantabria;Cantabria;GLP;2737
+225;ene-24;Castilla La Mancha;Albacete;BIODIESEL;0
+226;ene-24;Castilla La Mancha;Albacete;GASOLEO A;14741
+227;ene-24;Castilla La Mancha;Albacete;GASOLEO B;5761
+228;ene-24;Castilla La Mancha;Albacete;GASOLEO C;4039
+229;ene-24;Castilla La Mancha;Albacete;OTROS GASOLEOS;0
+230;ene-24;Castilla La Mancha;Albacete;BIOETANOL;0
+231;ene-24;Castilla La Mancha;Albacete;GASOLINA  AUTO. S/PB 95 i.O.;2841
+232;ene-24;Castilla La Mancha;Albacete;GASOLINA  AUTO. S/PB 98 i.O.;116
+233;ene-24;Castilla La Mancha;Albacete;OTRAS GASOLINAS;0
+234;ene-24;Castilla La Mancha;Albacete;FUELOLEO  BIA;0
+235;ene-24;Castilla La Mancha;Albacete;OTROS FUELOLEOS;0
+236;ene-24;Castilla La Mancha;Albacete;QUEROSENO AVIACION;29
+237;ene-24;Castilla La Mancha;Albacete;OTROS QUEROSENOS;0
+238;ene-24;Castilla La Mancha;Albacete;GLP;1485
+239;ene-24;Castilla La Mancha;Ciudad Real;BIODIESEL;2
+240;ene-24;Castilla La Mancha;Ciudad Real;GASOLEO A;20618
+241;ene-24;Castilla La Mancha;Ciudad Real;GASOLEO B;11368
+242;ene-24;Castilla La Mancha;Ciudad Real;GASOLEO C;3963
+243;ene-24;Castilla La Mancha;Ciudad Real;OTROS GASOLEOS;0
+244;ene-24;Castilla La Mancha;Ciudad Real;BIOETANOL;0
+245;ene-24;Castilla La Mancha;Ciudad Real;GASOLINA  AUTO. S/PB 95 i.O.;3836
+246;ene-24;Castilla La Mancha;Ciudad Real;GASOLINA  AUTO. S/PB 98 i.O.;109
+247;ene-24;Castilla La Mancha;Ciudad Real;OTRAS GASOLINAS;0
+248;ene-24;Castilla La Mancha;Ciudad Real;FUELOLEO  BIA;31
+249;ene-24;Castilla La Mancha;Ciudad Real;OTROS FUELOLEOS;0
+250;ene-24;Castilla La Mancha;Ciudad Real;QUEROSENO AVIACION;10
+251;ene-24;Castilla La Mancha;Ciudad Real;OTROS QUEROSENOS;0
+252;ene-24;Castilla La Mancha;Ciudad Real;GLP;1644
+253;ene-24;Castilla La Mancha;Cuenca;BIODIESEL;0
+254;ene-24;Castilla La Mancha;Cuenca;GASOLEO A;12635
+255;ene-24;Castilla La Mancha;Cuenca;GASOLEO B;9104
+256;ene-24;Castilla La Mancha;Cuenca;GASOLEO C;1973
+257;ene-24;Castilla La Mancha;Cuenca;OTROS GASOLEOS;0
+258;ene-24;Castilla La Mancha;Cuenca;BIOETANOL;0
+259;ene-24;Castilla La Mancha;Cuenca;GASOLINA  AUTO. S/PB 95 i.O.;1966
+260;ene-24;Castilla La Mancha;Cuenca;GASOLINA  AUTO. S/PB 98 i.O.;68
+261;ene-24;Castilla La Mancha;Cuenca;OTRAS GASOLINAS;0
+262;ene-24;Castilla La Mancha;Cuenca;FUELOLEO  BIA;0
+263;ene-24;Castilla La Mancha;Cuenca;OTROS FUELOLEOS;0
+264;ene-24;Castilla La Mancha;Cuenca;QUEROSENO AVIACION;11
+265;ene-24;Castilla La Mancha;Cuenca;OTROS QUEROSENOS;0
+266;ene-24;Castilla La Mancha;Cuenca;GLP;1123
+267;ene-24;Castilla La Mancha;Guadalajara;BIODIESEL;0
+268;ene-24;Castilla La Mancha;Guadalajara;GASOLEO A;11364
+269;ene-24;Castilla La Mancha;Guadalajara;GASOLEO B;4209
+270;ene-24;Castilla La Mancha;Guadalajara;GASOLEO C;4984
+271;ene-24;Castilla La Mancha;Guadalajara;OTROS GASOLEOS;0
+272;ene-24;Castilla La Mancha;Guadalajara;BIOETANOL;0
+273;ene-24;Castilla La Mancha;Guadalajara;GASOLINA  AUTO. S/PB 95 i.O.;3097
+274;ene-24;Castilla La Mancha;Guadalajara;GASOLINA  AUTO. S/PB 98 i.O.;87
+275;ene-24;Castilla La Mancha;Guadalajara;OTRAS GASOLINAS;0
+276;ene-24;Castilla La Mancha;Guadalajara;FUELOLEO  BIA;25
+277;ene-24;Castilla La Mancha;Guadalajara;OTROS FUELOLEOS;0
+278;ene-24;Castilla La Mancha;Guadalajara;QUEROSENO AVIACION;10
+279;ene-24;Castilla La Mancha;Guadalajara;OTROS QUEROSENOS;0
+280;ene-24;Castilla La Mancha;Guadalajara;GLP;865
+281;ene-24;Castilla La Mancha;Toledo;BIODIESEL;0
+282;ene-24;Castilla La Mancha;Toledo;GASOLEO A;31021
+283;ene-24;Castilla La Mancha;Toledo;GASOLEO B;14355
+284;ene-24;Castilla La Mancha;Toledo;GASOLEO C;9076
+285;ene-24;Castilla La Mancha;Toledo;OTROS GASOLEOS;0
+286;ene-24;Castilla La Mancha;Toledo;BIOETANOL;0
+287;ene-24;Castilla La Mancha;Toledo;GASOLINA  AUTO. S/PB 95 i.O.;6728
+288;ene-24;Castilla La Mancha;Toledo;GASOLINA  AUTO. S/PB 98 i.O.;234
+289;ene-24;Castilla La Mancha;Toledo;OTRAS GASOLINAS;0
+290;ene-24;Castilla La Mancha;Toledo;FUELOLEO  BIA;68
+291;ene-24;Castilla La Mancha;Toledo;OTROS FUELOLEOS;0
+292;ene-24;Castilla La Mancha;Toledo;QUEROSENO AVIACION;13
+293;ene-24;Castilla La Mancha;Toledo;OTROS QUEROSENOS;0
+294;ene-24;Castilla La Mancha;Toledo;GLP;3187
+295;ene-24;Castilla y Leon;Avila;BIODIESEL;0
+296;ene-24;Castilla y Leon;Avila;GASOLEO A;5931
+297;ene-24;Castilla y Leon;Avila;GASOLEO B;3151
+298;ene-24;Castilla y Leon;Avila;GASOLEO C;1741
+299;ene-24;Castilla y Leon;Avila;OTROS GASOLEOS;0
+300;ene-24;Castilla y Leon;Avila;BIOETANOL;0
+301;ene-24;Castilla y Leon;Avila;GASOLINA  AUTO. S/PB 95 i.O.;1405
+302;ene-24;Castilla y Leon;Avila;GASOLINA  AUTO. S/PB 98 i.O.;48
+303;ene-24;Castilla y Leon;Avila;OTRAS GASOLINAS;0
+304;ene-24;Castilla y Leon;Avila;FUELOLEO  BIA;0
+305;ene-24;Castilla y Leon;Avila;OTROS FUELOLEOS;0
+306;ene-24;Castilla y Leon;Avila;QUEROSENO AVIACION;0
+307;ene-24;Castilla y Leon;Avila;OTROS QUEROSENOS;0
+308;ene-24;Castilla y Leon;Avila;GLP;1045
+309;ene-24;Castilla y Leon;Burgos;BIODIESEL;0
+310;ene-24;Castilla y Leon;Burgos;GASOLEO A;19347
+311;ene-24;Castilla y Leon;Burgos;GASOLEO B;5227
+312;ene-24;Castilla y Leon;Burgos;GASOLEO C;1559
+313;ene-24;Castilla y Leon;Burgos;OTROS GASOLEOS;0
+314;ene-24;Castilla y Leon;Burgos;BIOETANOL;0
+315;ene-24;Castilla y Leon;Burgos;GASOLINA  AUTO. S/PB 95 i.O.;3767
+316;ene-24;Castilla y Leon;Burgos;GASOLINA  AUTO. S/PB 98 i.O.;164
+317;ene-24;Castilla y Leon;Burgos;OTRAS GASOLINAS;12
+318;ene-24;Castilla y Leon;Burgos;FUELOLEO  BIA;159
+319;ene-24;Castilla y Leon;Burgos;OTROS FUELOLEOS;0
+320;ene-24;Castilla y Leon;Burgos;QUEROSENO AVIACION;7
+321;ene-24;Castilla y Leon;Burgos;OTROS QUEROSENOS;0
+322;ene-24;Castilla y Leon;Burgos;GLP;1218
+323;ene-24;Castilla y Leon;Leon;BIODIESEL;4
+324;ene-24;Castilla y Leon;Leon;GASOLEO A;23458
+325;ene-24;Castilla y Leon;Leon;GASOLEO B;10206
+326;ene-24;Castilla y Leon;Leon;GASOLEO C;8400
+327;ene-24;Castilla y Leon;Leon;OTROS GASOLEOS;0
+328;ene-24;Castilla y Leon;Leon;BIOETANOL;0
+329;ene-24;Castilla y Leon;Leon;GASOLINA  AUTO. S/PB 95 i.O.;4548
+330;ene-24;Castilla y Leon;Leon;GASOLINA  AUTO. S/PB 98 i.O.;183
+331;ene-24;Castilla y Leon;Leon;OTRAS GASOLINAS;0
+332;ene-24;Castilla y Leon;Leon;FUELOLEO  BIA;0
+333;ene-24;Castilla y Leon;Leon;OTROS FUELOLEOS;0
+334;ene-24;Castilla y Leon;Leon;QUEROSENO AVIACION;28
+335;ene-24;Castilla y Leon;Leon;OTROS QUEROSENOS;0
+336;ene-24;Castilla y Leon;Leon;GLP;2199
+337;ene-24;Castilla y Leon;Palencia;BIODIESEL;6
+338;ene-24;Castilla y Leon;Palencia;GASOLEO A;17425
+339;ene-24;Castilla y Leon;Palencia;GASOLEO B;4186
+340;ene-24;Castilla y Leon;Palencia;GASOLEO C;1423
+341;ene-24;Castilla y Leon;Palencia;OTROS GASOLEOS;0
+342;ene-24;Castilla y Leon;Palencia;BIOETANOL;0
+343;ene-24;Castilla y Leon;Palencia;GASOLINA  AUTO. S/PB 95 i.O.;1383
+344;ene-24;Castilla y Leon;Palencia;GASOLINA  AUTO. S/PB 98 i.O.;58
+345;ene-24;Castilla y Leon;Palencia;OTRAS GASOLINAS;0
+346;ene-24;Castilla y Leon;Palencia;FUELOLEO  BIA;25
+347;ene-24;Castilla y Leon;Palencia;OTROS FUELOLEOS;0
+348;ene-24;Castilla y Leon;Palencia;QUEROSENO AVIACION;0
+349;ene-24;Castilla y Leon;Palencia;OTROS QUEROSENOS;0
+350;ene-24;Castilla y Leon;Palencia;GLP;634
+351;ene-24;Castilla y Leon;Salamanca;BIODIESEL;3
+352;ene-24;Castilla y Leon;Salamanca;GASOLEO A;18788
+353;ene-24;Castilla y Leon;Salamanca;GASOLEO B;4890
+354;ene-24;Castilla y Leon;Salamanca;GASOLEO C;4463
+355;ene-24;Castilla y Leon;Salamanca;OTROS GASOLEOS;0
+356;ene-24;Castilla y Leon;Salamanca;BIOETANOL;0
+357;ene-24;Castilla y Leon;Salamanca;GASOLINA  AUTO. S/PB 95 i.O.;2596
+358;ene-24;Castilla y Leon;Salamanca;GASOLINA  AUTO. S/PB 98 i.O.;115
+359;ene-24;Castilla y Leon;Salamanca;OTRAS GASOLINAS;9
+360;ene-24;Castilla y Leon;Salamanca;FUELOLEO  BIA;0
+361;ene-24;Castilla y Leon;Salamanca;OTROS FUELOLEOS;0
+362;ene-24;Castilla y Leon;Salamanca;QUEROSENO AVIACION;7
+363;ene-24;Castilla y Leon;Salamanca;OTROS QUEROSENOS;0
+364;ene-24;Castilla y Leon;Salamanca;GLP;1419
+365;ene-24;Castilla y Leon;Segovia;BIODIESEL;0
+366;ene-24;Castilla y Leon;Segovia;GASOLEO A;7509
+367;ene-24;Castilla y Leon;Segovia;GASOLEO B;3875
+368;ene-24;Castilla y Leon;Segovia;GASOLEO C;2875
+369;ene-24;Castilla y Leon;Segovia;OTROS GASOLEOS;0
+370;ene-24;Castilla y Leon;Segovia;BIOETANOL;0
+371;ene-24;Castilla y Leon;Segovia;GASOLINA  AUTO. S/PB 95 i.O.;1878
+372;ene-24;Castilla y Leon;Segovia;GASOLINA  AUTO. S/PB 98 i.O.;75
+373;ene-24;Castilla y Leon;Segovia;OTRAS GASOLINAS;0
+374;ene-24;Castilla y Leon;Segovia;FUELOLEO  BIA;26
+375;ene-24;Castilla y Leon;Segovia;OTROS FUELOLEOS;0
+376;ene-24;Castilla y Leon;Segovia;QUEROSENO AVIACION;0
+377;ene-24;Castilla y Leon;Segovia;OTROS QUEROSENOS;0
+378;ene-24;Castilla y Leon;Segovia;GLP;1114
+379;ene-24;Castilla y Leon;Soria;BIODIESEL;0
+380;ene-24;Castilla y Leon;Soria;GASOLEO A;5068
+381;ene-24;Castilla y Leon;Soria;GASOLEO B;2094
+382;ene-24;Castilla y Leon;Soria;GASOLEO C;1343
+383;ene-24;Castilla y Leon;Soria;OTROS GASOLEOS;0
+384;ene-24;Castilla y Leon;Soria;BIOETANOL;0
+385;ene-24;Castilla y Leon;Soria;GASOLINA  AUTO. S/PB 95 i.O.;864
+386;ene-24;Castilla y Leon;Soria;GASOLINA  AUTO. S/PB 98 i.O.;40
+387;ene-24;Castilla y Leon;Soria;OTRAS GASOLINAS;0
+388;ene-24;Castilla y Leon;Soria;FUELOLEO  BIA;0
+389;ene-24;Castilla y Leon;Soria;OTROS FUELOLEOS;0
+390;ene-24;Castilla y Leon;Soria;QUEROSENO AVIACION;0
+391;ene-24;Castilla y Leon;Soria;OTROS QUEROSENOS;0
+392;ene-24;Castilla y Leon;Soria;GLP;443
+393;ene-24;Castilla y Leon;Valladolid;BIODIESEL;3
+394;ene-24;Castilla y Leon;Valladolid;GASOLEO A;22141
+395;ene-24;Castilla y Leon;Valladolid;GASOLEO B;5571
+396;ene-24;Castilla y Leon;Valladolid;GASOLEO C;4074
+397;ene-24;Castilla y Leon;Valladolid;OTROS GASOLEOS;0
+398;ene-24;Castilla y Leon;Valladolid;BIOETANOL;0
+399;ene-24;Castilla y Leon;Valladolid;GASOLINA  AUTO. S/PB 95 i.O.;4759
+400;ene-24;Castilla y Leon;Valladolid;GASOLINA  AUTO. S/PB 98 i.O.;177
+401;ene-24;Castilla y Leon;Valladolid;OTRAS GASOLINAS;2
+402;ene-24;Castilla y Leon;Valladolid;FUELOLEO  BIA;25
+403;ene-24;Castilla y Leon;Valladolid;OTROS FUELOLEOS;0
+404;ene-24;Castilla y Leon;Valladolid;QUEROSENO AVIACION;127
+405;ene-24;Castilla y Leon;Valladolid;OTROS QUEROSENOS;0
+406;ene-24;Castilla y Leon;Valladolid;GLP;1308
+407;ene-24;Castilla y Leon;Zamora;BIODIESEL;3
+408;ene-24;Castilla y Leon;Zamora;GASOLEO A;13461
+409;ene-24;Castilla y Leon;Zamora;GASOLEO B;5718
+410;ene-24;Castilla y Leon;Zamora;GASOLEO C;1290
+411;ene-24;Castilla y Leon;Zamora;OTROS GASOLEOS;0
+412;ene-24;Castilla y Leon;Zamora;BIOETANOL;0
+413;ene-24;Castilla y Leon;Zamora;GASOLINA  AUTO. S/PB 95 i.O.;1500
+414;ene-24;Castilla y Leon;Zamora;GASOLINA  AUTO. S/PB 98 i.O.;71
+415;ene-24;Castilla y Leon;Zamora;OTRAS GASOLINAS;0
+416;ene-24;Castilla y Leon;Zamora;FUELOLEO  BIA;0
+417;ene-24;Castilla y Leon;Zamora;OTROS FUELOLEOS;0
+418;ene-24;Castilla y Leon;Zamora;QUEROSENO AVIACION;0
+419;ene-24;Castilla y Leon;Zamora;OTROS QUEROSENOS;0
+420;ene-24;Castilla y Leon;Zamora;GLP;780
+421;ene-24;Cataluna;Barcelona;BIODIESEL;80
+422;ene-24;Cataluna;Barcelona;GASOLEO A;136687
+423;ene-24;Cataluna;Barcelona;GASOLEO B;24253
+424;ene-24;Cataluna;Barcelona;GASOLEO C;7721
+425;ene-24;Cataluna;Barcelona;OTROS GASOLEOS;34249
+426;ene-24;Cataluna;Barcelona;BIOETANOL;0
+427;ene-24;Cataluna;Barcelona;GASOLINA  AUTO. S/PB 95 i.O.;51902
+428;ene-24;Cataluna;Barcelona;GASOLINA  AUTO. S/PB 98 i.O.;2243
+429;ene-24;Cataluna;Barcelona;OTRAS GASOLINAS;50
+430;ene-24;Cataluna;Barcelona;FUELOLEO  BIA;369
+431;ene-24;Cataluna;Barcelona;OTROS FUELOLEOS;65021
+432;ene-24;Cataluna;Barcelona;QUEROSENO AVIACION;82154
+433;ene-24;Cataluna;Barcelona;OTROS QUEROSENOS;0
+434;ene-24;Cataluna;Barcelona;GLP;8247
+435;ene-24;Cataluna;Girona;BIODIESEL;16
+436;ene-24;Cataluna;Girona;GASOLEO A;101239
+437;ene-24;Cataluna;Girona;GASOLEO B;6168
+438;ene-24;Cataluna;Girona;GASOLEO C;4561
+439;ene-24;Cataluna;Girona;OTROS GASOLEOS;310
+440;ene-24;Cataluna;Girona;BIOETANOL;0
+441;ene-24;Cataluna;Girona;GASOLINA  AUTO. S/PB 95 i.O.;12531
+442;ene-24;Cataluna;Girona;GASOLINA  AUTO. S/PB 98 i.O.;638
+443;ene-24;Cataluna;Girona;OTRAS GASOLINAS;3
+444;ene-24;Cataluna;Girona;FUELOLEO  BIA;67
+445;ene-24;Cataluna;Girona;OTROS FUELOLEOS;75
+446;ene-24;Cataluna;Girona;QUEROSENO AVIACION;477
+447;ene-24;Cataluna;Girona;OTROS QUEROSENOS;0
+448;ene-24;Cataluna;Girona;GLP;4884
+449;ene-24;Cataluna;Lleida;BIODIESEL;0
+450;ene-24;Cataluna;Lleida;GASOLEO A;22322
+451;ene-24;Cataluna;Lleida;GASOLEO B;8014
+452;ene-24;Cataluna;Lleida;GASOLEO C;2246
+453;ene-24;Cataluna;Lleida;OTROS GASOLEOS;0
+454;ene-24;Cataluna;Lleida;BIOETANOL;0
+455;ene-24;Cataluna;Lleida;GASOLINA  AUTO. S/PB 95 i.O.;4655
+456;ene-24;Cataluna;Lleida;GASOLINA  AUTO. S/PB 98 i.O.;252
+457;ene-24;Cataluna;Lleida;OTRAS GASOLINAS;0
+458;ene-24;Cataluna;Lleida;FUELOLEO  BIA;0
+459;ene-24;Cataluna;Lleida;OTROS FUELOLEOS;0
+460;ene-24;Cataluna;Lleida;QUEROSENO AVIACION;64
+461;ene-24;Cataluna;Lleida;OTROS QUEROSENOS;0
+462;ene-24;Cataluna;Lleida;GLP;4134
+463;ene-24;Cataluna;Tarragona;BIODIESEL;0
+464;ene-24;Cataluna;Tarragona;GASOLEO A;39421
+465;ene-24;Cataluna;Tarragona;GASOLEO B;4405
+466;ene-24;Cataluna;Tarragona;GASOLEO C;1144
+467;ene-24;Cataluna;Tarragona;OTROS GASOLEOS;3205
+468;ene-24;Cataluna;Tarragona;BIOETANOL;0
+469;ene-24;Cataluna;Tarragona;GASOLINA  AUTO. S/PB 95 i.O.;10871
+470;ene-24;Cataluna;Tarragona;GASOLINA  AUTO. S/PB 98 i.O.;340
+471;ene-24;Cataluna;Tarragona;OTRAS GASOLINAS;8
+472;ene-24;Cataluna;Tarragona;FUELOLEO  BIA;26
+473;ene-24;Cataluna;Tarragona;OTROS FUELOLEOS;355
+474;ene-24;Cataluna;Tarragona;QUEROSENO AVIACION;64
+475;ene-24;Cataluna;Tarragona;OTROS QUEROSENOS;0
+476;ene-24;Cataluna;Tarragona;GLP;6135
+477;ene-24;Ceuta;Ceuta;BIODIESEL;0
+478;ene-24;Ceuta;Ceuta;GASOLEO A;1025
+479;ene-24;Ceuta;Ceuta;GASOLEO B;0
+480;ene-24;Ceuta;Ceuta;GASOLEO C;82
+481;ene-24;Ceuta;Ceuta;OTROS GASOLEOS;15404
+482;ene-24;Ceuta;Ceuta;BIOETANOL;0
+483;ene-24;Ceuta;Ceuta;GASOLINA  AUTO. S/PB 95 i.O.;496
+484;ene-24;Ceuta;Ceuta;GASOLINA  AUTO. S/PB 98 i.O.;63
+485;ene-24;Ceuta;Ceuta;OTRAS GASOLINAS;0
+486;ene-24;Ceuta;Ceuta;FUELOLEO  BIA;1899
+487;ene-24;Ceuta;Ceuta;OTROS FUELOLEOS;7138
+488;ene-24;Ceuta;Ceuta;QUEROSENO AVIACION;54
+489;ene-24;Ceuta;Ceuta;OTROS QUEROSENOS;0
+490;ene-24;Ceuta;Ceuta;GLP;241
+491;ene-24;Comunidad Valenciana;Alicante;BIODIESEL;0
+492;ene-24;Comunidad Valenciana;Alicante;GASOLEO A;47607
+493;ene-24;Comunidad Valenciana;Alicante;GASOLEO B;5834
+494;ene-24;Comunidad Valenciana;Alicante;GASOLEO C;3157
+495;ene-24;Comunidad Valenciana;Alicante;OTROS GASOLEOS;1775
+496;ene-24;Comunidad Valenciana;Alicante;BIOETANOL;0
+497;ene-24;Comunidad Valenciana;Alicante;GASOLINA  AUTO. S/PB 95 i.O.;19764
+498;ene-24;Comunidad Valenciana;Alicante;GASOLINA  AUTO. S/PB 98 i.O.;871
+499;ene-24;Comunidad Valenciana;Alicante;OTRAS GASOLINAS;0
+500;ene-24;Comunidad Valenciana;Alicante;FUELOLEO  BIA;125
+501;ene-24;Comunidad Valenciana;Alicante;OTROS FUELOLEOS;50
+502;ene-24;Comunidad Valenciana;Alicante;QUEROSENO AVIACION;18386
+503;ene-24;Comunidad Valenciana;Alicante;OTROS QUEROSENOS;0
+504;ene-24;Comunidad Valenciana;Alicante;GLP;8729
+505;ene-24;Comunidad Valenciana;Castellon;BIODIESEL;0
+506;ene-24;Comunidad Valenciana;Castellon;GASOLEO A;18111
+507;ene-24;Comunidad Valenciana;Castellon;GASOLEO B;1934
+508;ene-24;Comunidad Valenciana;Castellon;GASOLEO C;920
+509;ene-24;Comunidad Valenciana;Castellon;OTROS GASOLEOS;10303
+510;ene-24;Comunidad Valenciana;Castellon;BIOETANOL;0
+511;ene-24;Comunidad Valenciana;Castellon;GASOLINA  AUTO. S/PB 95 i.O.;5802
+512;ene-24;Comunidad Valenciana;Castellon;GASOLINA  AUTO. S/PB 98 i.O.;227
+513;ene-24;Comunidad Valenciana;Castellon;OTRAS GASOLINAS;7
+514;ene-24;Comunidad Valenciana;Castellon;FUELOLEO  BIA;0
+515;ene-24;Comunidad Valenciana;Castellon;OTROS FUELOLEOS;103
+516;ene-24;Comunidad Valenciana;Castellon;QUEROSENO AVIACION;258
+517;ene-24;Comunidad Valenciana;Castellon;OTROS QUEROSENOS;0
+518;ene-24;Comunidad Valenciana;Castellon;GLP;2375
+519;ene-24;Comunidad Valenciana;Valencia;BIODIESEL;15
+520;ene-24;Comunidad Valenciana;Valencia;GASOLEO A;92467
+521;ene-24;Comunidad Valenciana;Valencia;GASOLEO B;11220
+522;ene-24;Comunidad Valenciana;Valencia;GASOLEO C;1902
+523;ene-24;Comunidad Valenciana;Valencia;OTROS GASOLEOS;6217
+524;ene-24;Comunidad Valenciana;Valencia;BIOETANOL;0
+525;ene-24;Comunidad Valenciana;Valencia;GASOLINA  AUTO. S/PB 95 i.O.;24567
+526;ene-24;Comunidad Valenciana;Valencia;GASOLINA  AUTO. S/PB 98 i.O.;828
+527;ene-24;Comunidad Valenciana;Valencia;OTRAS GASOLINAS;6
+528;ene-24;Comunidad Valenciana;Valencia;FUELOLEO  BIA;95
+529;ene-24;Comunidad Valenciana;Valencia;OTROS FUELOLEOS;25066
+530;ene-24;Comunidad Valenciana;Valencia;QUEROSENO AVIACION;10781
+531;ene-24;Comunidad Valenciana;Valencia;OTROS QUEROSENOS;0
+532;ene-24;Comunidad Valenciana;Valencia;GLP;7055
+533;ene-24;Extremadura;Badajoz;BIODIESEL;0
+534;ene-24;Extremadura;Badajoz;GASOLEO A;40390
+535;ene-24;Extremadura;Badajoz;GASOLEO B;6868
+536;ene-24;Extremadura;Badajoz;GASOLEO C;1039
+537;ene-24;Extremadura;Badajoz;OTROS GASOLEOS;0
+538;ene-24;Extremadura;Badajoz;BIOETANOL;0
+539;ene-24;Extremadura;Badajoz;GASOLINA  AUTO. S/PB 95 i.O.;5100
+540;ene-24;Extremadura;Badajoz;GASOLINA  AUTO. S/PB 98 i.O.;127
+541;ene-24;Extremadura;Badajoz;OTRAS GASOLINAS;0
+542;ene-24;Extremadura;Badajoz;FUELOLEO  BIA;199
+543;ene-24;Extremadura;Badajoz;OTROS FUELOLEOS;0
+544;ene-24;Extremadura;Badajoz;QUEROSENO AVIACION;74
+545;ene-24;Extremadura;Badajoz;OTROS QUEROSENOS;0
+546;ene-24;Extremadura;Badajoz;GLP;3885
+547;ene-24;Extremadura;Caceres;BIODIESEL;0
+548;ene-24;Extremadura;Caceres;GASOLEO A;15565
+549;ene-24;Extremadura;Caceres;GASOLEO B;3956
+550;ene-24;Extremadura;Caceres;GASOLEO C;1395
+551;ene-24;Extremadura;Caceres;OTROS GASOLEOS;0
+552;ene-24;Extremadura;Caceres;BIOETANOL;0
+553;ene-24;Extremadura;Caceres;GASOLINA  AUTO. S/PB 95 i.O.;3143
+554;ene-24;Extremadura;Caceres;GASOLINA  AUTO. S/PB 98 i.O.;75
+555;ene-24;Extremadura;Caceres;OTRAS GASOLINAS;0
+556;ene-24;Extremadura;Caceres;FUELOLEO  BIA;182
+557;ene-24;Extremadura;Caceres;OTROS FUELOLEOS;0
+558;ene-24;Extremadura;Caceres;QUEROSENO AVIACION;0
+559;ene-24;Extremadura;Caceres;OTROS QUEROSENOS;0
+560;ene-24;Extremadura;Caceres;GLP;2628
+561;ene-24;Galicia;A Coruna;BIODIESEL;13
+562;ene-24;Galicia;A Coruna;GASOLEO A;38360
+563;ene-24;Galicia;A Coruna;GASOLEO B;8360
+564;ene-24;Galicia;A Coruna;GASOLEO C;7690
+565;ene-24;Galicia;A Coruna;OTROS GASOLEOS;3440
+566;ene-24;Galicia;A Coruna;BIOETANOL;0
+567;ene-24;Galicia;A Coruna;GASOLINA  AUTO. S/PB 95 i.O.;8390
+568;ene-24;Galicia;A Coruna;GASOLINA  AUTO. S/PB 98 i.O.;383
+569;ene-24;Galicia;A Coruna;OTRAS GASOLINAS;4
+570;ene-24;Galicia;A Coruna;FUELOLEO  BIA;6971
+571;ene-24;Galicia;A Coruna;OTROS FUELOLEOS;861
+572;ene-24;Galicia;A Coruna;QUEROSENO AVIACION;3353
+573;ene-24;Galicia;A Coruna;OTROS QUEROSENOS;0
+574;ene-24;Galicia;A Coruna;GLP;5055
+575;ene-24;Galicia;Lugo;BIODIESEL;0
+576;ene-24;Galicia;Lugo;GASOLEO A;16533
+577;ene-24;Galicia;Lugo;GASOLEO B;4525
+578;ene-24;Galicia;Lugo;GASOLEO C;5242
+579;ene-24;Galicia;Lugo;OTROS GASOLEOS;1490
+580;ene-24;Galicia;Lugo;BIOETANOL;0
+581;ene-24;Galicia;Lugo;GASOLINA  AUTO. S/PB 95 i.O.;2396
+582;ene-24;Galicia;Lugo;GASOLINA  AUTO. S/PB 98 i.O.;92
+583;ene-24;Galicia;Lugo;OTRAS GASOLINAS;0
+584;ene-24;Galicia;Lugo;FUELOLEO  BIA;62
+585;ene-24;Galicia;Lugo;OTROS FUELOLEOS;0
+586;ene-24;Galicia;Lugo;QUEROSENO AVIACION;0
+587;ene-24;Galicia;Lugo;OTROS QUEROSENOS;0
+588;ene-24;Galicia;Lugo;GLP;2214
+589;ene-24;Galicia;Ourense;BIODIESEL;0
+590;ene-24;Galicia;Ourense;GASOLEO A;12204
+591;ene-24;Galicia;Ourense;GASOLEO B;2279
+592;ene-24;Galicia;Ourense;GASOLEO C;7395
+593;ene-24;Galicia;Ourense;OTROS GASOLEOS;94
+594;ene-24;Galicia;Ourense;BIOETANOL;0
+595;ene-24;Galicia;Ourense;GASOLINA  AUTO. S/PB 95 i.O.;2187
+596;ene-24;Galicia;Ourense;GASOLINA  AUTO. S/PB 98 i.O.;148
+597;ene-24;Galicia;Ourense;OTRAS GASOLINAS;0
+598;ene-24;Galicia;Ourense;FUELOLEO  BIA;1091
+599;ene-24;Galicia;Ourense;OTROS FUELOLEOS;0
+600;ene-24;Galicia;Ourense;QUEROSENO AVIACION;0
+601;ene-24;Galicia;Ourense;OTROS QUEROSENOS;0
+602;ene-24;Galicia;Ourense;GLP;2107
+603;ene-24;Galicia;Pontevedra;BIODIESEL;0
+604;ene-24;Galicia;Pontevedra;GASOLEO A;33208
+605;ene-24;Galicia;Pontevedra;GASOLEO B;5869
+606;ene-24;Galicia;Pontevedra;GASOLEO C;8205
+607;ene-24;Galicia;Pontevedra;OTROS GASOLEOS;7157
+608;ene-24;Galicia;Pontevedra;BIOETANOL;0
+609;ene-24;Galicia;Pontevedra;GASOLINA  AUTO. S/PB 95 i.O.;7240
+610;ene-24;Galicia;Pontevedra;GASOLINA  AUTO. S/PB 98 i.O.;360
+611;ene-24;Galicia;Pontevedra;OTRAS GASOLINAS;2
+612;ene-24;Galicia;Pontevedra;FUELOLEO  BIA;721
+613;ene-24;Galicia;Pontevedra;OTROS FUELOLEOS;432
+614;ene-24;Galicia;Pontevedra;QUEROSENO AVIACION;389
+615;ene-24;Galicia;Pontevedra;OTROS QUEROSENOS;0
+616;ene-24;Galicia;Pontevedra;GLP;4657
+617;ene-24;Comunidad de Madrid;Madrid;BIODIESEL;78
+618;ene-24;Comunidad de Madrid;Madrid;GASOLEO A;171176
+619;ene-24;Comunidad de Madrid;Madrid;GASOLEO B;14667
+620;ene-24;Comunidad de Madrid;Madrid;GASOLEO C;26992
+621;ene-24;Comunidad de Madrid;Madrid;OTROS GASOLEOS;0
+622;ene-24;Comunidad de Madrid;Madrid;BIOETANOL;0
+623;ene-24;Comunidad de Madrid;Madrid;GASOLINA  AUTO. S/PB 95 i.O.;61487
+624;ene-24;Comunidad de Madrid;Madrid;GASOLINA  AUTO. S/PB 98 i.O.;2003
+625;ene-24;Comunidad de Madrid;Madrid;OTRAS GASOLINAS;41
+626;ene-24;Comunidad de Madrid;Madrid;FUELOLEO  BIA;184
+627;ene-24;Comunidad de Madrid;Madrid;OTROS FUELOLEOS;0
+628;ene-24;Comunidad de Madrid;Madrid;QUEROSENO AVIACION;203392
+629;ene-24;Comunidad de Madrid;Madrid;OTROS QUEROSENOS;0
+630;ene-24;Comunidad de Madrid;Madrid;GLP;14194
+631;ene-24;Melilla;Melilla;BIODIESEL;0
+632;ene-24;Melilla;Melilla;GASOLEO A;1054
+633;ene-24;Melilla;Melilla;GASOLEO B;0
+634;ene-24;Melilla;Melilla;GASOLEO C;0
+635;ene-24;Melilla;Melilla;OTROS GASOLEOS;0
+636;ene-24;Melilla;Melilla;BIOETANOL;0
+637;ene-24;Melilla;Melilla;GASOLINA  AUTO. S/PB 95 i.O.;547
+638;ene-24;Melilla;Melilla;GASOLINA  AUTO. S/PB 98 i.O.;0
+639;ene-24;Melilla;Melilla;OTRAS GASOLINAS;0
+640;ene-24;Melilla;Melilla;FUELOLEO  BIA;1896
+641;ene-24;Melilla;Melilla;OTROS FUELOLEOS;0
+642;ene-24;Melilla;Melilla;QUEROSENO AVIACION;144
+643;ene-24;Melilla;Melilla;OTROS QUEROSENOS;0
+644;ene-24;Melilla;Melilla;GLP;224
+645;ene-24;Region de Murcia;Murcia;BIODIESEL;9
+646;ene-24;Region de Murcia;Murcia;GASOLEO A;80163
+647;ene-24;Region de Murcia;Murcia;GASOLEO B;12574
+648;ene-24;Region de Murcia;Murcia;GASOLEO C;1353
+649;ene-24;Region de Murcia;Murcia;OTROS GASOLEOS;959
+650;ene-24;Region de Murcia;Murcia;BIOETANOL;0
+651;ene-24;Region de Murcia;Murcia;GASOLINA  AUTO. S/PB 95 i.O.;12240
+652;ene-24;Region de Murcia;Murcia;GASOLINA  AUTO. S/PB 98 i.O.;527
+653;ene-24;Region de Murcia;Murcia;OTRAS GASOLINAS;0
+654;ene-24;Region de Murcia;Murcia;FUELOLEO  BIA;313
+655;ene-24;Region de Murcia;Murcia;OTROS FUELOLEOS;51
+656;ene-24;Region de Murcia;Murcia;QUEROSENO AVIACION;746
+657;ene-24;Region de Murcia;Murcia;OTROS QUEROSENOS;0
+658;ene-24;Region de Murcia;Murcia;GLP;5377
+659;ene-24;Comunidad Foral de Navarra;Navarra;BIODIESEL;79
+660;ene-24;Comunidad Foral de Navarra;Navarra;GASOLEO A;48532
+661;ene-24;Comunidad Foral de Navarra;Navarra;GASOLEO B;9375
+662;ene-24;Comunidad Foral de Navarra;Navarra;GASOLEO C;2191
+663;ene-24;Comunidad Foral de Navarra;Navarra;OTROS GASOLEOS;0
+664;ene-24;Comunidad Foral de Navarra;Navarra;BIOETANOL;0
+665;ene-24;Comunidad Foral de Navarra;Navarra;GASOLINA  AUTO. S/PB 95 i.O.;6117
+666;ene-24;Comunidad Foral de Navarra;Navarra;GASOLINA  AUTO. S/PB 98 i.O.;182
+667;ene-24;Comunidad Foral de Navarra;Navarra;OTRAS GASOLINAS;2
+668;ene-24;Comunidad Foral de Navarra;Navarra;FUELOLEO  BIA;297
+669;ene-24;Comunidad Foral de Navarra;Navarra;OTROS FUELOLEOS;0
+670;ene-24;Comunidad Foral de Navarra;Navarra;QUEROSENO AVIACION;101
+671;ene-24;Comunidad Foral de Navarra;Navarra;OTROS QUEROSENOS;0
+672;ene-24;Comunidad Foral de Navarra;Navarra;GLP;1714
+673;ene-24;Pais Vasco;Alava;BIODIESEL;17
+674;ene-24;Pais Vasco;Alava;GASOLEO A;45664
+675;ene-24;Pais Vasco;Alava;GASOLEO B;2307
+676;ene-24;Pais Vasco;Alava;GASOLEO C;1617
+677;ene-24;Pais Vasco;Alava;OTROS GASOLEOS;0
+678;ene-24;Pais Vasco;Alava;BIOETANOL;0
+679;ene-24;Pais Vasco;Alava;GASOLINA  AUTO. S/PB 95 i.O.;3129
+680;ene-24;Pais Vasco;Alava;GASOLINA  AUTO. S/PB 98 i.O.;120
+681;ene-24;Pais Vasco;Alava;OTRAS GASOLINAS;0
+682;ene-24;Pais Vasco;Alava;FUELOLEO  BIA;313
+683;ene-24;Pais Vasco;Alava;OTROS FUELOLEOS;0
+684;ene-24;Pais Vasco;Alava;QUEROSENO AVIACION;627
+685;ene-24;Pais Vasco;Alava;OTROS QUEROSENOS;0
+686;ene-24;Pais Vasco;Alava;GLP;702
+687;ene-24;Pais Vasco;Bizkaia;BIODIESEL;42
+688;ene-24;Pais Vasco;Bizkaia;GASOLEO A;35751
+689;ene-24;Pais Vasco;Bizkaia;GASOLEO B;6243
+690;ene-24;Pais Vasco;Bizkaia;GASOLEO C;6373
+691;ene-24;Pais Vasco;Bizkaia;OTROS GASOLEOS;658
+692;ene-24;Pais Vasco;Bizkaia;BIOETANOL;0
+693;ene-24;Pais Vasco;Bizkaia;GASOLINA  AUTO. S/PB 95 i.O.;8588
+694;ene-24;Pais Vasco;Bizkaia;GASOLINA  AUTO. S/PB 98 i.O.;359
+695;ene-24;Pais Vasco;Bizkaia;OTRAS GASOLINAS;1
+696;ene-24;Pais Vasco;Bizkaia;FUELOLEO  BIA;121
+697;ene-24;Pais Vasco;Bizkaia;OTROS FUELOLEOS;0
+698;ene-24;Pais Vasco;Bizkaia;QUEROSENO AVIACION;4085
+699;ene-24;Pais Vasco;Bizkaia;OTROS QUEROSENOS;2
+700;ene-24;Pais Vasco;Bizkaia;GLP;2113
+701;ene-24;Pais Vasco;Gipuzkoa;BIODIESEL;6
+702;ene-24;Pais Vasco;Gipuzkoa;GASOLEO A;54347
+703;ene-24;Pais Vasco;Gipuzkoa;GASOLEO B;1737
+704;ene-24;Pais Vasco;Gipuzkoa;GASOLEO C;600
+705;ene-24;Pais Vasco;Gipuzkoa;OTROS GASOLEOS;510
+706;ene-24;Pais Vasco;Gipuzkoa;BIOETANOL;0
+707;ene-24;Pais Vasco;Gipuzkoa;GASOLINA  AUTO. S/PB 95 i.O.;6151
+708;ene-24;Pais Vasco;Gipuzkoa;GASOLINA  AUTO. S/PB 98 i.O.;371
+709;ene-24;Pais Vasco;Gipuzkoa;OTRAS GASOLINAS;1
+710;ene-24;Pais Vasco;Gipuzkoa;FUELOLEO  BIA;25
+711;ene-24;Pais Vasco;Gipuzkoa;OTROS FUELOLEOS;25
+712;ene-24;Pais Vasco;Gipuzkoa;QUEROSENO AVIACION;374
+713;ene-24;Pais Vasco;Gipuzkoa;OTROS QUEROSENOS;0
+714;ene-24;Pais Vasco;Gipuzkoa;GLP;2565
+715;ene-24;La Rioja;La Rioja;BIODIESEL;0
+716;ene-24;La Rioja;La Rioja;GASOLEO A;13054
+717;ene-24;La Rioja;La Rioja;GASOLEO B;3444
+718;ene-24;La Rioja;La Rioja;GASOLEO C;2823
+719;ene-24;La Rioja;La Rioja;OTROS GASOLEOS;0
+720;ene-24;La Rioja;La Rioja;BIOETANOL;0
+721;ene-24;La Rioja;La Rioja;GASOLINA  AUTO. S/PB 95 i.O.;2395
+722;ene-24;La Rioja;La Rioja;GASOLINA  AUTO. S/PB 98 i.O.;76
+723;ene-24;La Rioja;La Rioja;OTRAS GASOLINAS;0
+724;ene-24;La Rioja;La Rioja;FUELOLEO  BIA;118
+725;ene-24;La Rioja;La Rioja;OTROS FUELOLEOS;0
+726;ene-24;La Rioja;La Rioja;QUEROSENO AVIACION;0
+727;ene-24;La Rioja;La Rioja;OTROS QUEROSENOS;0
+728;ene-24;La Rioja;La Rioja;GLP;762
+729;feb-24;Andalucia;Almeria;BIODIESEL;0
+730;feb-24;Andalucia;Almeria;GASOLEO A;25914
+731;feb-24;Andalucia;Almeria;GASOLEO B;4923
+732;feb-24;Andalucia;Almeria;GASOLEO C;298
+733;feb-24;Andalucia;Almeria;OTROS GASOLEOS;1329
+734;feb-24;Andalucia;Almeria;BIOETANOL;0
+735;feb-24;Andalucia;Almeria;GASOLINA  AUTO. S/PB 95 i.O.;5104
+736;feb-24;Andalucia;Almeria;GASOLINA  AUTO. S/PB 98 i.O.;273
+737;feb-24;Andalucia;Almeria;OTRAS GASOLINAS;1
+738;feb-24;Andalucia;Almeria;FUELOLEO  BIA;54
+739;feb-24;Andalucia;Almeria;OTROS FUELOLEOS;1135
+740;feb-24;Andalucia;Almeria;QUEROSENO AVIACION;505
+741;feb-24;Andalucia;Almeria;OTROS QUEROSENOS;0
+742;feb-24;Andalucia;Almeria;GLP;2301
+743;feb-24;Andalucia;Cadiz;BIODIESEL;0
+744;feb-24;Andalucia;Cadiz;GASOLEO A;29779
+745;feb-24;Andalucia;Cadiz;GASOLEO B;6352
+746;feb-24;Andalucia;Cadiz;GASOLEO C;378
+747;feb-24;Andalucia;Cadiz;OTROS GASOLEOS;77870
+748;feb-24;Andalucia;Cadiz;BIOETANOL;0
+749;feb-24;Andalucia;Cadiz;GASOLINA  AUTO. S/PB 95 i.O.;9863
+750;feb-24;Andalucia;Cadiz;GASOLINA  AUTO. S/PB 98 i.O.;432
+751;feb-24;Andalucia;Cadiz;OTRAS GASOLINAS;38
+752;feb-24;Andalucia;Cadiz;FUELOLEO  BIA;0
+753;feb-24;Andalucia;Cadiz;OTROS FUELOLEOS;243183
+754;feb-24;Andalucia;Cadiz;QUEROSENO AVIACION;632
+755;feb-24;Andalucia;Cadiz;OTROS QUEROSENOS;0
+756;feb-24;Andalucia;Cadiz;GLP;3560
+757;feb-24;Andalucia;Cordoba;BIODIESEL;0
+758;feb-24;Andalucia;Cordoba;GASOLEO A;27453
+759;feb-24;Andalucia;Cordoba;GASOLEO B;6534
+760;feb-24;Andalucia;Cordoba;GASOLEO C;861
+761;feb-24;Andalucia;Cordoba;OTROS GASOLEOS;0
+762;feb-24;Andalucia;Cordoba;BIOETANOL;0
+763;feb-24;Andalucia;Cordoba;GASOLINA  AUTO. S/PB 95 i.O.;4733
+764;feb-24;Andalucia;Cordoba;GASOLINA  AUTO. S/PB 98 i.O.;93
+765;feb-24;Andalucia;Cordoba;OTRAS GASOLINAS;9
+766;feb-24;Andalucia;Cordoba;FUELOLEO  BIA;25
+767;feb-24;Andalucia;Cordoba;OTROS FUELOLEOS;0
+768;feb-24;Andalucia;Cordoba;QUEROSENO AVIACION;10
+769;feb-24;Andalucia;Cordoba;OTROS QUEROSENOS;0
+770;feb-24;Andalucia;Cordoba;GLP;2390
+771;feb-24;Andalucia;Granada;BIODIESEL;0
+772;feb-24;Andalucia;Granada;GASOLEO A;31903
+773;feb-24;Andalucia;Granada;GASOLEO B;6116
+774;feb-24;Andalucia;Granada;GASOLEO C;3471
+775;feb-24;Andalucia;Granada;OTROS GASOLEOS;169
+776;feb-24;Andalucia;Granada;BIOETANOL;0
+777;feb-24;Andalucia;Granada;GASOLINA  AUTO. S/PB 95 i.O.;8062
+778;feb-24;Andalucia;Granada;GASOLINA  AUTO. S/PB 98 i.O.;315
+779;feb-24;Andalucia;Granada;OTRAS GASOLINAS;1
+780;feb-24;Andalucia;Granada;FUELOLEO  BIA;204
+781;feb-24;Andalucia;Granada;OTROS FUELOLEOS;426
+782;feb-24;Andalucia;Granada;QUEROSENO AVIACION;737
+783;feb-24;Andalucia;Granada;OTROS QUEROSENOS;0
+784;feb-24;Andalucia;Granada;GLP;3317
+785;feb-24;Andalucia;Huelva;BIODIESEL;2
+786;feb-24;Andalucia;Huelva;GASOLEO A;19662
+787;feb-24;Andalucia;Huelva;GASOLEO B;7783
+788;feb-24;Andalucia;Huelva;GASOLEO C;136
+789;feb-24;Andalucia;Huelva;OTROS GASOLEOS;1118
+790;feb-24;Andalucia;Huelva;BIOETANOL;0
+791;feb-24;Andalucia;Huelva;GASOLINA  AUTO. S/PB 95 i.O.;4112
+792;feb-24;Andalucia;Huelva;GASOLINA  AUTO. S/PB 98 i.O.;148
+793;feb-24;Andalucia;Huelva;OTRAS GASOLINAS;0
+794;feb-24;Andalucia;Huelva;FUELOLEO  BIA;878
+795;feb-24;Andalucia;Huelva;OTROS FUELOLEOS;497
+796;feb-24;Andalucia;Huelva;QUEROSENO AVIACION;0
+797;feb-24;Andalucia;Huelva;OTROS QUEROSENOS;0
+798;feb-24;Andalucia;Huelva;GLP;2526
+799;feb-24;Andalucia;Jaen;BIODIESEL;42
+800;feb-24;Andalucia;Jaen;GASOLEO A;26956
+801;feb-24;Andalucia;Jaen;GASOLEO B;3758
+802;feb-24;Andalucia;Jaen;GASOLEO C;1496
+803;feb-24;Andalucia;Jaen;OTROS GASOLEOS;0
+804;feb-24;Andalucia;Jaen;BIOETANOL;0
+805;feb-24;Andalucia;Jaen;GASOLINA  AUTO. S/PB 95 i.O.;3699
+806;feb-24;Andalucia;Jaen;GASOLINA  AUTO. S/PB 98 i.O.;115
+807;feb-24;Andalucia;Jaen;OTRAS GASOLINAS;1
+808;feb-24;Andalucia;Jaen;FUELOLEO  BIA;0
+809;feb-24;Andalucia;Jaen;OTROS FUELOLEOS;0
+810;feb-24;Andalucia;Jaen;QUEROSENO AVIACION;0
+811;feb-24;Andalucia;Jaen;OTROS QUEROSENOS;0
+812;feb-24;Andalucia;Jaen;GLP;1698
+813;feb-24;Andalucia;Malaga;BIODIESEL;6
+814;feb-24;Andalucia;Malaga;GASOLEO A;42398
+815;feb-24;Andalucia;Malaga;GASOLEO B;4301
+816;feb-24;Andalucia;Malaga;GASOLEO C;390
+817;feb-24;Andalucia;Malaga;OTROS GASOLEOS;773
+818;feb-24;Andalucia;Malaga;BIOETANOL;0
+819;feb-24;Andalucia;Malaga;GASOLINA  AUTO. S/PB 95 i.O.;16466
+820;feb-24;Andalucia;Malaga;GASOLINA  AUTO. S/PB 98 i.O.;1037
+821;feb-24;Andalucia;Malaga;OTRAS GASOLINAS;0
+822;feb-24;Andalucia;Malaga;FUELOLEO  BIA;77
+823;feb-24;Andalucia;Malaga;OTROS FUELOLEOS;916
+824;feb-24;Andalucia;Malaga;QUEROSENO AVIACION;22741
+825;feb-24;Andalucia;Malaga;OTROS QUEROSENOS;0
+826;feb-24;Andalucia;Malaga;GLP;5006
+827;feb-24;Andalucia;Sevilla;BIODIESEL;30
+828;feb-24;Andalucia;Sevilla;GASOLEO A;51468
+829;feb-24;Andalucia;Sevilla;GASOLEO B;7385
+830;feb-24;Andalucia;Sevilla;GASOLEO C;606
+831;feb-24;Andalucia;Sevilla;OTROS GASOLEOS;404
+832;feb-24;Andalucia;Sevilla;BIOETANOL;0
+833;feb-24;Andalucia;Sevilla;GASOLINA  AUTO. S/PB 95 i.O.;14154
+834;feb-24;Andalucia;Sevilla;GASOLINA  AUTO. S/PB 98 i.O.;378
+835;feb-24;Andalucia;Sevilla;OTRAS GASOLINAS;3
+836;feb-24;Andalucia;Sevilla;FUELOLEO  BIA;361
+837;feb-24;Andalucia;Sevilla;OTROS FUELOLEOS;374
+838;feb-24;Andalucia;Sevilla;QUEROSENO AVIACION;10923
+839;feb-24;Andalucia;Sevilla;OTROS QUEROSENOS;0
+840;feb-24;Andalucia;Sevilla;GLP;4982
+841;feb-24;Aragon;Huesca;BIODIESEL;0
+842;feb-24;Aragon;Huesca;GASOLEO A;13655
+843;feb-24;Aragon;Huesca;GASOLEO B;6022
+844;feb-24;Aragon;Huesca;GASOLEO C;1884
+845;feb-24;Aragon;Huesca;OTROS GASOLEOS;0
+846;feb-24;Aragon;Huesca;BIOETANOL;0
+847;feb-24;Aragon;Huesca;GASOLINA  AUTO. S/PB 95 i.O.;2703
+848;feb-24;Aragon;Huesca;GASOLINA  AUTO. S/PB 98 i.O.;116
+849;feb-24;Aragon;Huesca;OTRAS GASOLINAS;6
+850;feb-24;Aragon;Huesca;FUELOLEO  BIA;0
+851;feb-24;Aragon;Huesca;OTROS FUELOLEOS;0
+852;feb-24;Aragon;Huesca;QUEROSENO AVIACION;25
+853;feb-24;Aragon;Huesca;OTROS QUEROSENOS;0
+854;feb-24;Aragon;Huesca;GLP;2587
+855;feb-24;Aragon;Teruel;BIODIESEL;0
+856;feb-24;Aragon;Teruel;GASOLEO A;8256
+857;feb-24;Aragon;Teruel;GASOLEO B;4220
+858;feb-24;Aragon;Teruel;GASOLEO C;1897
+859;feb-24;Aragon;Teruel;OTROS GASOLEOS;0
+860;feb-24;Aragon;Teruel;BIOETANOL;0
+861;feb-24;Aragon;Teruel;GASOLINA  AUTO. S/PB 95 i.O.;1287
+862;feb-24;Aragon;Teruel;GASOLINA  AUTO. S/PB 98 i.O.;66
+863;feb-24;Aragon;Teruel;OTRAS GASOLINAS;0
+864;feb-24;Aragon;Teruel;FUELOLEO  BIA;44
+865;feb-24;Aragon;Teruel;OTROS FUELOLEOS;0
+866;feb-24;Aragon;Teruel;QUEROSENO AVIACION;0
+867;feb-24;Aragon;Teruel;OTROS QUEROSENOS;0
+868;feb-24;Aragon;Teruel;GLP;718
+869;feb-24;Aragon;Zaragoza;BIODIESEL;208
+870;feb-24;Aragon;Zaragoza;GASOLEO A;39239
+871;feb-24;Aragon;Zaragoza;GASOLEO B;9757
+872;feb-24;Aragon;Zaragoza;GASOLEO C;7915
+873;feb-24;Aragon;Zaragoza;OTROS GASOLEOS;0
+874;feb-24;Aragon;Zaragoza;BIOETANOL;0
+875;feb-24;Aragon;Zaragoza;GASOLINA  AUTO. S/PB 95 i.O.;7906
+876;feb-24;Aragon;Zaragoza;GASOLINA  AUTO. S/PB 98 i.O.;268
+877;feb-24;Aragon;Zaragoza;OTRAS GASOLINAS;2
+878;feb-24;Aragon;Zaragoza;FUELOLEO  BIA;6
+879;feb-24;Aragon;Zaragoza;OTROS FUELOLEOS;0
+880;feb-24;Aragon;Zaragoza;QUEROSENO AVIACION;6227
+881;feb-24;Aragon;Zaragoza;OTROS QUEROSENOS;0
+882;feb-24;Aragon;Zaragoza;GLP;2447
+883;feb-24;Principado de Asturias;Asturias;BIODIESEL;0
+884;feb-24;Principado de Asturias;Asturias;GASOLEO A;30122
+885;feb-24;Principado de Asturias;Asturias;GASOLEO B;6213
+886;feb-24;Principado de Asturias;Asturias;GASOLEO C;3912
+887;feb-24;Principado de Asturias;Asturias;OTROS GASOLEOS;1999
+888;feb-24;Principado de Asturias;Asturias;BIOETANOL;0
+889;feb-24;Principado de Asturias;Asturias;GASOLINA  AUTO. S/PB 95 i.O.;7549
+890;feb-24;Principado de Asturias;Asturias;GASOLINA  AUTO. S/PB 98 i.O.;405
+891;feb-24;Principado de Asturias;Asturias;OTRAS GASOLINAS;1
+892;feb-24;Principado de Asturias;Asturias;FUELOLEO  BIA;1056
+893;feb-24;Principado de Asturias;Asturias;OTROS FUELOLEOS;316
+894;feb-24;Principado de Asturias;Asturias;QUEROSENO AVIACION;1075
+895;feb-24;Principado de Asturias;Asturias;OTROS QUEROSENOS;0
+896;feb-24;Principado de Asturias;Asturias;GLP;2531
+897;feb-24;Islas Baleares;Islas Baleares;BIODIESEL;0
+898;feb-24;Islas Baleares;Islas Baleares;GASOLEO A;23592
+899;feb-24;Islas Baleares;Islas Baleares;GASOLEO B;3419
+900;feb-24;Islas Baleares;Islas Baleares;GASOLEO C;3466
+901;feb-24;Islas Baleares;Islas Baleares;OTROS GASOLEOS;1785
+902;feb-24;Islas Baleares;Islas Baleares;BIOETANOL;0
+903;feb-24;Islas Baleares;Islas Baleares;GASOLINA  AUTO. S/PB 95 i.O.;15595
+904;feb-24;Islas Baleares;Islas Baleares;GASOLINA  AUTO. S/PB 98 i.O.;744
+905;feb-24;Islas Baleares;Islas Baleares;OTRAS GASOLINAS;12
+906;feb-24;Islas Baleares;Islas Baleares;FUELOLEO  BIA;0
+907;feb-24;Islas Baleares;Islas Baleares;OTROS FUELOLEOS;0
+908;feb-24;Islas Baleares;Islas Baleares;QUEROSENO AVIACION;14318
+909;feb-24;Islas Baleares;Islas Baleares;OTROS QUEROSENOS;0
+910;feb-24;Islas Baleares;Islas Baleares;GLP;4030
+911;feb-24;Canarias;Las Palmas;BIODIESEL;0
+912;feb-24;Canarias;Las Palmas;GASOLEO A;26200
+913;feb-24;Canarias;Las Palmas;GASOLEO B;0
+914;feb-24;Canarias;Las Palmas;GASOLEO C;0
+915;feb-24;Canarias;Las Palmas;OTROS GASOLEOS;130709
+916;feb-24;Canarias;Las Palmas;BIOETANOL;0
+917;feb-24;Canarias;Las Palmas;GASOLINA  AUTO. S/PB 95 i.O.;18138
+918;feb-24;Canarias;Las Palmas;GASOLINA  AUTO. S/PB 98 i.O.;3292
+919;feb-24;Canarias;Las Palmas;OTRAS GASOLINAS;5
+920;feb-24;Canarias;Las Palmas;FUELOLEO  BIA;28886
+921;feb-24;Canarias;Las Palmas;OTROS FUELOLEOS;77443
+922;feb-24;Canarias;Las Palmas;QUEROSENO AVIACION;57783
+923;feb-24;Canarias;Las Palmas;OTROS QUEROSENOS;0
+924;feb-24;Canarias;Las Palmas;GLP;3117
+925;feb-24;Canarias;Santa Cruz de Tenerife;BIODIESEL;0
+926;feb-24;Canarias;Santa Cruz de Tenerife;GASOLEO A;25120
+927;feb-24;Canarias;Santa Cruz de Tenerife;GASOLEO B;0
+928;feb-24;Canarias;Santa Cruz de Tenerife;GASOLEO C;0
+929;feb-24;Canarias;Santa Cruz de Tenerife;OTROS GASOLEOS;54130
+930;feb-24;Canarias;Santa Cruz de Tenerife;BIOETANOL;0
+931;feb-24;Canarias;Santa Cruz de Tenerife;GASOLINA  AUTO. S/PB 95 i.O.;16941
+932;feb-24;Canarias;Santa Cruz de Tenerife;GASOLINA  AUTO. S/PB 98 i.O.;4577
+933;feb-24;Canarias;Santa Cruz de Tenerife;OTRAS GASOLINAS;1
+934;feb-24;Canarias;Santa Cruz de Tenerife;FUELOLEO  BIA;19634
+935;feb-24;Canarias;Santa Cruz de Tenerife;OTROS FUELOLEOS;24814
+936;feb-24;Canarias;Santa Cruz de Tenerife;QUEROSENO AVIACION;52461
+937;feb-24;Canarias;Santa Cruz de Tenerife;OTROS QUEROSENOS;0
+938;feb-24;Canarias;Santa Cruz de Tenerife;GLP;3639
+939;feb-24;Cantabria;Cantabria;BIODIESEL;169
+940;feb-24;Cantabria;Cantabria;GASOLEO A;22540
+941;feb-24;Cantabria;Cantabria;GASOLEO B;4706
+942;feb-24;Cantabria;Cantabria;GASOLEO C;298
+943;feb-24;Cantabria;Cantabria;OTROS GASOLEOS;535
+944;feb-24;Cantabria;Cantabria;BIOETANOL;0
+945;feb-24;Cantabria;Cantabria;GASOLINA  AUTO. S/PB 95 i.O.;5756
+946;feb-24;Cantabria;Cantabria;GASOLINA  AUTO. S/PB 98 i.O.;189
+947;feb-24;Cantabria;Cantabria;OTRAS GASOLINAS;2
+948;feb-24;Cantabria;Cantabria;FUELOLEO  BIA;660
+949;feb-24;Cantabria;Cantabria;OTROS FUELOLEOS;0
+950;feb-24;Cantabria;Cantabria;QUEROSENO AVIACION;536
+951;feb-24;Cantabria;Cantabria;OTROS QUEROSENOS;0
+952;feb-24;Cantabria;Cantabria;GLP;1794
+953;feb-24;Castilla La Mancha;Albacete;BIODIESEL;0
+954;feb-24;Castilla La Mancha;Albacete;GASOLEO A;14898
+955;feb-24;Castilla La Mancha;Albacete;GASOLEO B;5180
+956;feb-24;Castilla La Mancha;Albacete;GASOLEO C;2918
+957;feb-24;Castilla La Mancha;Albacete;OTROS GASOLEOS;0
+958;feb-24;Castilla La Mancha;Albacete;BIOETANOL;0
+959;feb-24;Castilla La Mancha;Albacete;GASOLINA  AUTO. S/PB 95 i.O.;2714
+960;feb-24;Castilla La Mancha;Albacete;GASOLINA  AUTO. S/PB 98 i.O.;102
+961;feb-24;Castilla La Mancha;Albacete;OTRAS GASOLINAS;0
+962;feb-24;Castilla La Mancha;Albacete;FUELOLEO  BIA;0
+963;feb-24;Castilla La Mancha;Albacete;OTROS FUELOLEOS;0
+964;feb-24;Castilla La Mancha;Albacete;QUEROSENO AVIACION;61
+965;feb-24;Castilla La Mancha;Albacete;OTROS QUEROSENOS;0
+966;feb-24;Castilla La Mancha;Albacete;GLP;1184
+967;feb-24;Castilla La Mancha;Ciudad Real;BIODIESEL;4
+968;feb-24;Castilla La Mancha;Ciudad Real;GASOLEO A;28072
+969;feb-24;Castilla La Mancha;Ciudad Real;GASOLEO B;11564
+970;feb-24;Castilla La Mancha;Ciudad Real;GASOLEO C;3057
+971;feb-24;Castilla La Mancha;Ciudad Real;OTROS GASOLEOS;0
+972;feb-24;Castilla La Mancha;Ciudad Real;BIOETANOL;0
+973;feb-24;Castilla La Mancha;Ciudad Real;GASOLINA  AUTO. S/PB 95 i.O.;4340
+974;feb-24;Castilla La Mancha;Ciudad Real;GASOLINA  AUTO. S/PB 98 i.O.;95
+975;feb-24;Castilla La Mancha;Ciudad Real;OTRAS GASOLINAS;0
+976;feb-24;Castilla La Mancha;Ciudad Real;FUELOLEO  BIA;35
+977;feb-24;Castilla La Mancha;Ciudad Real;OTROS FUELOLEOS;0
+978;feb-24;Castilla La Mancha;Ciudad Real;QUEROSENO AVIACION;0
+979;feb-24;Castilla La Mancha;Ciudad Real;OTROS QUEROSENOS;0
+980;feb-24;Castilla La Mancha;Ciudad Real;GLP;1292
+981;feb-24;Castilla La Mancha;Cuenca;BIODIESEL;0
+982;feb-24;Castilla La Mancha;Cuenca;GASOLEO A;12637
+983;feb-24;Castilla La Mancha;Cuenca;GASOLEO B;7124
+984;feb-24;Castilla La Mancha;Cuenca;GASOLEO C;1585
+985;feb-24;Castilla La Mancha;Cuenca;OTROS GASOLEOS;0
+986;feb-24;Castilla La Mancha;Cuenca;BIOETANOL;0
+987;feb-24;Castilla La Mancha;Cuenca;GASOLINA  AUTO. S/PB 95 i.O.;1911
+988;feb-24;Castilla La Mancha;Cuenca;GASOLINA  AUTO. S/PB 98 i.O.;75
+989;feb-24;Castilla La Mancha;Cuenca;OTRAS GASOLINAS;3
+990;feb-24;Castilla La Mancha;Cuenca;FUELOLEO  BIA;0
+991;feb-24;Castilla La Mancha;Cuenca;OTROS FUELOLEOS;0
+992;feb-24;Castilla La Mancha;Cuenca;QUEROSENO AVIACION;9
+993;feb-24;Castilla La Mancha;Cuenca;OTROS QUEROSENOS;0
+994;feb-24;Castilla La Mancha;Cuenca;GLP;913
+995;feb-24;Castilla La Mancha;Guadalajara;BIODIESEL;12
+996;feb-24;Castilla La Mancha;Guadalajara;GASOLEO A;11936
+997;feb-24;Castilla La Mancha;Guadalajara;GASOLEO B;4115
+998;feb-24;Castilla La Mancha;Guadalajara;GASOLEO C;4007
+999;feb-24;Castilla La Mancha;Guadalajara;OTROS GASOLEOS;0
+1000;feb-24;Castilla La Mancha;Guadalajara;BIOETANOL;0
+1001;feb-24;Castilla La Mancha;Guadalajara;GASOLINA  AUTO. S/PB 95 i.O.;2926
+1002;feb-24;Castilla La Mancha;Guadalajara;GASOLINA  AUTO. S/PB 98 i.O.;100
+1003;feb-24;Castilla La Mancha;Guadalajara;OTRAS GASOLINAS;0
+1004;feb-24;Castilla La Mancha;Guadalajara;FUELOLEO  BIA;26
+1005;feb-24;Castilla La Mancha;Guadalajara;OTROS FUELOLEOS;0
+1006;feb-24;Castilla La Mancha;Guadalajara;QUEROSENO AVIACION;0
+1007;feb-24;Castilla La Mancha;Guadalajara;OTROS QUEROSENOS;0
+1008;feb-24;Castilla La Mancha;Guadalajara;GLP;677
+1009;feb-24;Castilla La Mancha;Toledo;BIODIESEL;0
+1010;feb-24;Castilla La Mancha;Toledo;GASOLEO A;31725
+1011;feb-24;Castilla La Mancha;Toledo;GASOLEO B;11040
+1012;feb-24;Castilla La Mancha;Toledo;GASOLEO C;7520
+1013;feb-24;Castilla La Mancha;Toledo;OTROS GASOLEOS;0
+1014;feb-24;Castilla La Mancha;Toledo;BIOETANOL;0
+1015;feb-24;Castilla La Mancha;Toledo;GASOLINA  AUTO. S/PB 95 i.O.;6419
+1016;feb-24;Castilla La Mancha;Toledo;GASOLINA  AUTO. S/PB 98 i.O.;221
+1017;feb-24;Castilla La Mancha;Toledo;OTRAS GASOLINAS;17
+1018;feb-24;Castilla La Mancha;Toledo;FUELOLEO  BIA;31
+1019;feb-24;Castilla La Mancha;Toledo;OTROS FUELOLEOS;0
+1020;feb-24;Castilla La Mancha;Toledo;QUEROSENO AVIACION;17
+1021;feb-24;Castilla La Mancha;Toledo;OTROS QUEROSENOS;0
+1022;feb-24;Castilla La Mancha;Toledo;GLP;2461
+1023;feb-24;Castilla y Leon;Avila;BIODIESEL;0
+1024;feb-24;Castilla y Leon;Avila;GASOLEO A;6260
+1025;feb-24;Castilla y Leon;Avila;GASOLEO B;2819
+1026;feb-24;Castilla y Leon;Avila;GASOLEO C;1341
+1027;feb-24;Castilla y Leon;Avila;OTROS GASOLEOS;0
+1028;feb-24;Castilla y Leon;Avila;BIOETANOL;0
+1029;feb-24;Castilla y Leon;Avila;GASOLINA  AUTO. S/PB 95 i.O.;1482
+1030;feb-24;Castilla y Leon;Avila;GASOLINA  AUTO. S/PB 98 i.O.;48
+1031;feb-24;Castilla y Leon;Avila;OTRAS GASOLINAS;0
+1032;feb-24;Castilla y Leon;Avila;FUELOLEO  BIA;0
+1033;feb-24;Castilla y Leon;Avila;OTROS FUELOLEOS;0
+1034;feb-24;Castilla y Leon;Avila;QUEROSENO AVIACION;0
+1035;feb-24;Castilla y Leon;Avila;OTROS QUEROSENOS;0
+1036;feb-24;Castilla y Leon;Avila;GLP;803
+1037;feb-24;Castilla y Leon;Burgos;BIODIESEL;3
+1038;feb-24;Castilla y Leon;Burgos;GASOLEO A;19375
+1039;feb-24;Castilla y Leon;Burgos;GASOLEO B;5708
+1040;feb-24;Castilla y Leon;Burgos;GASOLEO C;1434
+1041;feb-24;Castilla y Leon;Burgos;OTROS GASOLEOS;0
+1042;feb-24;Castilla y Leon;Burgos;BIOETANOL;0
+1043;feb-24;Castilla y Leon;Burgos;GASOLINA  AUTO. S/PB 95 i.O.;3606
+1044;feb-24;Castilla y Leon;Burgos;GASOLINA  AUTO. S/PB 98 i.O.;166
+1045;feb-24;Castilla y Leon;Burgos;OTRAS GASOLINAS;18
+1046;feb-24;Castilla y Leon;Burgos;FUELOLEO  BIA;157
+1047;feb-24;Castilla y Leon;Burgos;OTROS FUELOLEOS;0
+1048;feb-24;Castilla y Leon;Burgos;QUEROSENO AVIACION;19
+1049;feb-24;Castilla y Leon;Burgos;OTROS QUEROSENOS;0
+1050;feb-24;Castilla y Leon;Burgos;GLP;1042
+1051;feb-24;Castilla y Leon;Leon;BIODIESEL;2
+1052;feb-24;Castilla y Leon;Leon;GASOLEO A;21948
+1053;feb-24;Castilla y Leon;Leon;GASOLEO B;8564
+1054;feb-24;Castilla y Leon;Leon;GASOLEO C;6396
+1055;feb-24;Castilla y Leon;Leon;OTROS GASOLEOS;0
+1056;feb-24;Castilla y Leon;Leon;BIOETANOL;0
+1057;feb-24;Castilla y Leon;Leon;GASOLINA  AUTO. S/PB 95 i.O.;3958
+1058;feb-24;Castilla y Leon;Leon;GASOLINA  AUTO. S/PB 98 i.O.;176
+1059;feb-24;Castilla y Leon;Leon;OTRAS GASOLINAS;0
+1060;feb-24;Castilla y Leon;Leon;FUELOLEO  BIA;101
+1061;feb-24;Castilla y Leon;Leon;OTROS FUELOLEOS;0
+1062;feb-24;Castilla y Leon;Leon;QUEROSENO AVIACION;4408
+1063;feb-24;Castilla y Leon;Leon;OTROS QUEROSENOS;0
+1064;feb-24;Castilla y Leon;Leon;GLP;1561
+1065;feb-24;Castilla y Leon;Palencia;BIODIESEL;3
+1066;feb-24;Castilla y Leon;Palencia;GASOLEO A;15451
+1067;feb-24;Castilla y Leon;Palencia;GASOLEO B;5102
+1068;feb-24;Castilla y Leon;Palencia;GASOLEO C;968
+1069;feb-24;Castilla y Leon;Palencia;OTROS GASOLEOS;0
+1070;feb-24;Castilla y Leon;Palencia;BIOETANOL;0
+1071;feb-24;Castilla y Leon;Palencia;GASOLINA  AUTO. S/PB 95 i.O.;1354
+1072;feb-24;Castilla y Leon;Palencia;GASOLINA  AUTO. S/PB 98 i.O.;53
+1073;feb-24;Castilla y Leon;Palencia;OTRAS GASOLINAS;0
+1074;feb-24;Castilla y Leon;Palencia;FUELOLEO  BIA;25
+1075;feb-24;Castilla y Leon;Palencia;OTROS FUELOLEOS;0
+1076;feb-24;Castilla y Leon;Palencia;QUEROSENO AVIACION;0
+1077;feb-24;Castilla y Leon;Palencia;OTROS QUEROSENOS;0
+1078;feb-24;Castilla y Leon;Palencia;GLP;562
+1079;feb-24;Castilla y Leon;Salamanca;BIODIESEL;3
+1080;feb-24;Castilla y Leon;Salamanca;GASOLEO A;17536
+1081;feb-24;Castilla y Leon;Salamanca;GASOLEO B;4276
+1082;feb-24;Castilla y Leon;Salamanca;GASOLEO C;3621
+1083;feb-24;Castilla y Leon;Salamanca;OTROS GASOLEOS;0
+1084;feb-24;Castilla y Leon;Salamanca;BIOETANOL;0
+1085;feb-24;Castilla y Leon;Salamanca;GASOLINA  AUTO. S/PB 95 i.O.;2437
+1086;feb-24;Castilla y Leon;Salamanca;GASOLINA  AUTO. S/PB 98 i.O.;122
+1087;feb-24;Castilla y Leon;Salamanca;OTRAS GASOLINAS;14
+1088;feb-24;Castilla y Leon;Salamanca;FUELOLEO  BIA;0
+1089;feb-24;Castilla y Leon;Salamanca;OTROS FUELOLEOS;0
+1090;feb-24;Castilla y Leon;Salamanca;QUEROSENO AVIACION;17
+1091;feb-24;Castilla y Leon;Salamanca;OTROS QUEROSENOS;0
+1092;feb-24;Castilla y Leon;Salamanca;GLP;1006
+1093;feb-24;Castilla y Leon;Segovia;BIODIESEL;0
+1094;feb-24;Castilla y Leon;Segovia;GASOLEO A;8028
+1095;feb-24;Castilla y Leon;Segovia;GASOLEO B;3679
+1096;feb-24;Castilla y Leon;Segovia;GASOLEO C;2498
+1097;feb-24;Castilla y Leon;Segovia;OTROS GASOLEOS;0
+1098;feb-24;Castilla y Leon;Segovia;BIOETANOL;0
+1099;feb-24;Castilla y Leon;Segovia;GASOLINA  AUTO. S/PB 95 i.O.;1749
+1100;feb-24;Castilla y Leon;Segovia;GASOLINA  AUTO. S/PB 98 i.O.;79
+1101;feb-24;Castilla y Leon;Segovia;OTRAS GASOLINAS;0
+1102;feb-24;Castilla y Leon;Segovia;FUELOLEO  BIA;26
+1103;feb-24;Castilla y Leon;Segovia;OTROS FUELOLEOS;0
+1104;feb-24;Castilla y Leon;Segovia;QUEROSENO AVIACION;0
+1105;feb-24;Castilla y Leon;Segovia;OTROS QUEROSENOS;0
+1106;feb-24;Castilla y Leon;Segovia;GLP;753
+1107;feb-24;Castilla y Leon;Soria;BIODIESEL;0
+1108;feb-24;Castilla y Leon;Soria;GASOLEO A;5282
+1109;feb-24;Castilla y Leon;Soria;GASOLEO B;2164
+1110;feb-24;Castilla y Leon;Soria;GASOLEO C;1011
+1111;feb-24;Castilla y Leon;Soria;OTROS GASOLEOS;0
+1112;feb-24;Castilla y Leon;Soria;BIOETANOL;0
+1113;feb-24;Castilla y Leon;Soria;GASOLINA  AUTO. S/PB 95 i.O.;904
+1114;feb-24;Castilla y Leon;Soria;GASOLINA  AUTO. S/PB 98 i.O.;44
+1115;feb-24;Castilla y Leon;Soria;OTRAS GASOLINAS;0
+1116;feb-24;Castilla y Leon;Soria;FUELOLEO  BIA;0
+1117;feb-24;Castilla y Leon;Soria;OTROS FUELOLEOS;0
+1118;feb-24;Castilla y Leon;Soria;QUEROSENO AVIACION;0
+1119;feb-24;Castilla y Leon;Soria;OTROS QUEROSENOS;0
+1120;feb-24;Castilla y Leon;Soria;GLP;322
+1121;feb-24;Castilla y Leon;Valladolid;BIODIESEL;22
+1122;feb-24;Castilla y Leon;Valladolid;GASOLEO A;19609
+1123;feb-24;Castilla y Leon;Valladolid;GASOLEO B;5043
+1124;feb-24;Castilla y Leon;Valladolid;GASOLEO C;3183
+1125;feb-24;Castilla y Leon;Valladolid;OTROS GASOLEOS;0
+1126;feb-24;Castilla y Leon;Valladolid;BIOETANOL;0
+1127;feb-24;Castilla y Leon;Valladolid;GASOLINA  AUTO. S/PB 95 i.O.;4391
+1128;feb-24;Castilla y Leon;Valladolid;GASOLINA  AUTO. S/PB 98 i.O.;174
+1129;feb-24;Castilla y Leon;Valladolid;OTRAS GASOLINAS;4
+1130;feb-24;Castilla y Leon;Valladolid;FUELOLEO  BIA;101
+1131;feb-24;Castilla y Leon;Valladolid;OTROS FUELOLEOS;0
+1132;feb-24;Castilla y Leon;Valladolid;QUEROSENO AVIACION;125
+1133;feb-24;Castilla y Leon;Valladolid;OTROS QUEROSENOS;0
+1134;feb-24;Castilla y Leon;Valladolid;GLP;1080
+1135;feb-24;Castilla y Leon;Zamora;BIODIESEL;10
+1136;feb-24;Castilla y Leon;Zamora;GASOLEO A;14235
+1137;feb-24;Castilla y Leon;Zamora;GASOLEO B;4778
+1138;feb-24;Castilla y Leon;Zamora;GASOLEO C;969
+1139;feb-24;Castilla y Leon;Zamora;OTROS GASOLEOS;0
+1140;feb-24;Castilla y Leon;Zamora;BIOETANOL;0
+1141;feb-24;Castilla y Leon;Zamora;GASOLINA  AUTO. S/PB 95 i.O.;1447
+1142;feb-24;Castilla y Leon;Zamora;GASOLINA  AUTO. S/PB 98 i.O.;61
+1143;feb-24;Castilla y Leon;Zamora;OTRAS GASOLINAS;0
+1144;feb-24;Castilla y Leon;Zamora;FUELOLEO  BIA;0
+1145;feb-24;Castilla y Leon;Zamora;OTROS FUELOLEOS;0
+1146;feb-24;Castilla y Leon;Zamora;QUEROSENO AVIACION;0
+1147;feb-24;Castilla y Leon;Zamora;OTROS QUEROSENOS;0
+1148;feb-24;Castilla y Leon;Zamora;GLP;634
+1149;feb-24;Cataluna;Barcelona;BIODIESEL;74
+1150;feb-24;Cataluna;Barcelona;GASOLEO A;122254
+1151;feb-24;Cataluna;Barcelona;GASOLEO B;19841
+1152;feb-24;Cataluna;Barcelona;GASOLEO C;4924
+1153;feb-24;Cataluna;Barcelona;OTROS GASOLEOS;18445
+1154;feb-24;Cataluna;Barcelona;BIOETANOL;12
+1155;feb-24;Cataluna;Barcelona;GASOLINA  AUTO. S/PB 95 i.O.;52000
+1156;feb-24;Cataluna;Barcelona;GASOLINA  AUTO. S/PB 98 i.O.;2302
+1157;feb-24;Cataluna;Barcelona;OTRAS GASOLINAS;57
+1158;feb-24;Cataluna;Barcelona;FUELOLEO  BIA;277
+1159;feb-24;Cataluna;Barcelona;OTROS FUELOLEOS;63161
+1160;feb-24;Cataluna;Barcelona;QUEROSENO AVIACION;81704
+1161;feb-24;Cataluna;Barcelona;OTROS QUEROSENOS;0
+1162;feb-24;Cataluna;Barcelona;GLP;6459
+1163;feb-24;Cataluna;Girona;BIODIESEL;15
+1164;feb-24;Cataluna;Girona;GASOLEO A;99371
+1165;feb-24;Cataluna;Girona;GASOLEO B;5396
+1166;feb-24;Cataluna;Girona;GASOLEO C;3002
+1167;feb-24;Cataluna;Girona;OTROS GASOLEOS;112
+1168;feb-24;Cataluna;Girona;BIOETANOL;0
+1169;feb-24;Cataluna;Girona;GASOLINA  AUTO. S/PB 95 i.O.;11708
+1170;feb-24;Cataluna;Girona;GASOLINA  AUTO. S/PB 98 i.O.;580
+1171;feb-24;Cataluna;Girona;OTRAS GASOLINAS;2
+1172;feb-24;Cataluna;Girona;FUELOLEO  BIA;67
+1173;feb-24;Cataluna;Girona;OTROS FUELOLEOS;0
+1174;feb-24;Cataluna;Girona;QUEROSENO AVIACION;506
+1175;feb-24;Cataluna;Girona;OTROS QUEROSENOS;0
+1176;feb-24;Cataluna;Girona;GLP;3513
+1177;feb-24;Cataluna;Lleida;BIODIESEL;0
+1178;feb-24;Cataluna;Lleida;GASOLEO A;26311
+1179;feb-24;Cataluna;Lleida;GASOLEO B;7239
+1180;feb-24;Cataluna;Lleida;GASOLEO C;1402
+1181;feb-24;Cataluna;Lleida;OTROS GASOLEOS;0
+1182;feb-24;Cataluna;Lleida;BIOETANOL;0
+1183;feb-24;Cataluna;Lleida;GASOLINA  AUTO. S/PB 95 i.O.;4441
+1184;feb-24;Cataluna;Lleida;GASOLINA  AUTO. S/PB 98 i.O.;201
+1185;feb-24;Cataluna;Lleida;OTRAS GASOLINAS;11
+1186;feb-24;Cataluna;Lleida;FUELOLEO  BIA;0
+1187;feb-24;Cataluna;Lleida;OTROS FUELOLEOS;0
+1188;feb-24;Cataluna;Lleida;QUEROSENO AVIACION;81
+1189;feb-24;Cataluna;Lleida;OTROS QUEROSENOS;0
+1190;feb-24;Cataluna;Lleida;GLP;3139
+1191;feb-24;Cataluna;Tarragona;BIODIESEL;1
+1192;feb-24;Cataluna;Tarragona;GASOLEO A;42858
+1193;feb-24;Cataluna;Tarragona;GASOLEO B;4949
+1194;feb-24;Cataluna;Tarragona;GASOLEO C;781
+1195;feb-24;Cataluna;Tarragona;OTROS GASOLEOS;1868
+1196;feb-24;Cataluna;Tarragona;BIOETANOL;0
+1197;feb-24;Cataluna;Tarragona;GASOLINA  AUTO. S/PB 95 i.O.;11007
+1198;feb-24;Cataluna;Tarragona;GASOLINA  AUTO. S/PB 98 i.O.;403
+1199;feb-24;Cataluna;Tarragona;OTRAS GASOLINAS;10
+1200;feb-24;Cataluna;Tarragona;FUELOLEO  BIA;0
+1201;feb-24;Cataluna;Tarragona;OTROS FUELOLEOS;975
+1202;feb-24;Cataluna;Tarragona;QUEROSENO AVIACION;75
+1203;feb-24;Cataluna;Tarragona;OTROS QUEROSENOS;0
+1204;feb-24;Cataluna;Tarragona;GLP;20499
+1205;feb-24;Ceuta;Ceuta;BIODIESEL;0
+1206;feb-24;Ceuta;Ceuta;GASOLEO A;973
+1207;feb-24;Ceuta;Ceuta;GASOLEO B;0
+1208;feb-24;Ceuta;Ceuta;GASOLEO C;55
+1209;feb-24;Ceuta;Ceuta;OTROS GASOLEOS;7998
+1210;feb-24;Ceuta;Ceuta;BIOETANOL;0
+1211;feb-24;Ceuta;Ceuta;GASOLINA  AUTO. S/PB 95 i.O.;467
+1212;feb-24;Ceuta;Ceuta;GASOLINA  AUTO. S/PB 98 i.O.;46
+1213;feb-24;Ceuta;Ceuta;OTRAS GASOLINAS;0
+1214;feb-24;Ceuta;Ceuta;FUELOLEO  BIA;4669
+1215;feb-24;Ceuta;Ceuta;OTROS FUELOLEOS;6740
+1216;feb-24;Ceuta;Ceuta;QUEROSENO AVIACION;50
+1217;feb-24;Ceuta;Ceuta;OTROS QUEROSENOS;0
+1218;feb-24;Ceuta;Ceuta;GLP;223
+1219;feb-24;Comunidad Valenciana;Alicante;BIODIESEL;43
+1220;feb-24;Comunidad Valenciana;Alicante;GASOLEO A;46974
+1221;feb-24;Comunidad Valenciana;Alicante;GASOLEO B;5122
+1222;feb-24;Comunidad Valenciana;Alicante;GASOLEO C;2682
+1223;feb-24;Comunidad Valenciana;Alicante;OTROS GASOLEOS;999
+1224;feb-24;Comunidad Valenciana;Alicante;BIOETANOL;0
+1225;feb-24;Comunidad Valenciana;Alicante;GASOLINA  AUTO. S/PB 95 i.O.;19565
+1226;feb-24;Comunidad Valenciana;Alicante;GASOLINA  AUTO. S/PB 98 i.O.;835
+1227;feb-24;Comunidad Valenciana;Alicante;OTRAS GASOLINAS;11
+1228;feb-24;Comunidad Valenciana;Alicante;FUELOLEO  BIA;141
+1229;feb-24;Comunidad Valenciana;Alicante;OTROS FUELOLEOS;229
+1230;feb-24;Comunidad Valenciana;Alicante;QUEROSENO AVIACION;17919
+1231;feb-24;Comunidad Valenciana;Alicante;OTROS QUEROSENOS;7
+1232;feb-24;Comunidad Valenciana;Alicante;GLP;6827
+1233;feb-24;Comunidad Valenciana;Castellon;BIODIESEL;0
+1234;feb-24;Comunidad Valenciana;Castellon;GASOLEO A;17796
+1235;feb-24;Comunidad Valenciana;Castellon;GASOLEO B;1750
+1236;feb-24;Comunidad Valenciana;Castellon;GASOLEO C;592
+1237;feb-24;Comunidad Valenciana;Castellon;OTROS GASOLEOS;12162
+1238;feb-24;Comunidad Valenciana;Castellon;BIOETANOL;0
+1239;feb-24;Comunidad Valenciana;Castellon;GASOLINA  AUTO. S/PB 95 i.O.;5727
+1240;feb-24;Comunidad Valenciana;Castellon;GASOLINA  AUTO. S/PB 98 i.O.;263
+1241;feb-24;Comunidad Valenciana;Castellon;OTRAS GASOLINAS;8
+1242;feb-24;Comunidad Valenciana;Castellon;FUELOLEO  BIA;0
+1243;feb-24;Comunidad Valenciana;Castellon;OTROS FUELOLEOS;330
+1244;feb-24;Comunidad Valenciana;Castellon;QUEROSENO AVIACION;169
+1245;feb-24;Comunidad Valenciana;Castellon;OTROS QUEROSENOS;0
+1246;feb-24;Comunidad Valenciana;Castellon;GLP;1870
+1247;feb-24;Comunidad Valenciana;Valencia;BIODIESEL;0
+1248;feb-24;Comunidad Valenciana;Valencia;GASOLEO A;86546
+1249;feb-24;Comunidad Valenciana;Valencia;GASOLEO B;9977
+1250;feb-24;Comunidad Valenciana;Valencia;GASOLEO C;1540
+1251;feb-24;Comunidad Valenciana;Valencia;OTROS GASOLEOS;3747
+1252;feb-24;Comunidad Valenciana;Valencia;BIOETANOL;0
+1253;feb-24;Comunidad Valenciana;Valencia;GASOLINA  AUTO. S/PB 95 i.O.;23436
+1254;feb-24;Comunidad Valenciana;Valencia;GASOLINA  AUTO. S/PB 98 i.O.;858
+1255;feb-24;Comunidad Valenciana;Valencia;OTRAS GASOLINAS;4
+1256;feb-24;Comunidad Valenciana;Valencia;FUELOLEO  BIA;84
+1257;feb-24;Comunidad Valenciana;Valencia;OTROS FUELOLEOS;18719
+1258;feb-24;Comunidad Valenciana;Valencia;QUEROSENO AVIACION;10269
+1259;feb-24;Comunidad Valenciana;Valencia;OTROS QUEROSENOS;0
+1260;feb-24;Comunidad Valenciana;Valencia;GLP;5787
+1261;feb-24;Extremadura;Badajoz;BIODIESEL;0
+1262;feb-24;Extremadura;Badajoz;GASOLEO A;39995
+1263;feb-24;Extremadura;Badajoz;GASOLEO B;6330
+1264;feb-24;Extremadura;Badajoz;GASOLEO C;887
+1265;feb-24;Extremadura;Badajoz;OTROS GASOLEOS;0
+1266;feb-24;Extremadura;Badajoz;BIOETANOL;0
+1267;feb-24;Extremadura;Badajoz;GASOLINA  AUTO. S/PB 95 i.O.;4881
+1268;feb-24;Extremadura;Badajoz;GASOLINA  AUTO. S/PB 98 i.O.;141
+1269;feb-24;Extremadura;Badajoz;OTRAS GASOLINAS;1
+1270;feb-24;Extremadura;Badajoz;FUELOLEO  BIA;50
+1271;feb-24;Extremadura;Badajoz;OTROS FUELOLEOS;0
+1272;feb-24;Extremadura;Badajoz;QUEROSENO AVIACION;40
+1273;feb-24;Extremadura;Badajoz;OTROS QUEROSENOS;0
+1274;feb-24;Extremadura;Badajoz;GLP;3083
+1275;feb-24;Extremadura;Caceres;BIODIESEL;0
+1276;feb-24;Extremadura;Caceres;GASOLEO A;15456
+1277;feb-24;Extremadura;Caceres;GASOLEO B;3453
+1278;feb-24;Extremadura;Caceres;GASOLEO C;1016
+1279;feb-24;Extremadura;Caceres;OTROS GASOLEOS;0
+1280;feb-24;Extremadura;Caceres;BIOETANOL;0
+1281;feb-24;Extremadura;Caceres;GASOLINA  AUTO. S/PB 95 i.O.;3001
+1282;feb-24;Extremadura;Caceres;GASOLINA  AUTO. S/PB 98 i.O.;98
+1283;feb-24;Extremadura;Caceres;OTRAS GASOLINAS;0
+1284;feb-24;Extremadura;Caceres;FUELOLEO  BIA;209
+1285;feb-24;Extremadura;Caceres;OTROS FUELOLEOS;0
+1286;feb-24;Extremadura;Caceres;QUEROSENO AVIACION;7
+1287;feb-24;Extremadura;Caceres;OTROS QUEROSENOS;0
+1288;feb-24;Extremadura;Caceres;GLP;1981
+1289;feb-24;Galicia;A Coruna;BIODIESEL;25
+1290;feb-24;Galicia;A Coruna;GASOLEO A;39455
+1291;feb-24;Galicia;A Coruna;GASOLEO B;7354
+1292;feb-24;Galicia;A Coruna;GASOLEO C;5366
+1293;feb-24;Galicia;A Coruna;OTROS GASOLEOS;3229
+1294;feb-24;Galicia;A Coruna;BIOETANOL;0
+1295;feb-24;Galicia;A Coruna;GASOLINA  AUTO. S/PB 95 i.O.;8573
+1296;feb-24;Galicia;A Coruna;GASOLINA  AUTO. S/PB 98 i.O.;362
+1297;feb-24;Galicia;A Coruna;OTRAS GASOLINAS;3
+1298;feb-24;Galicia;A Coruna;FUELOLEO  BIA;5780
+1299;feb-24;Galicia;A Coruna;OTROS FUELOLEOS;1730
+1300;feb-24;Galicia;A Coruna;QUEROSENO AVIACION;3208
+1301;feb-24;Galicia;A Coruna;OTROS QUEROSENOS;0
+1302;feb-24;Galicia;A Coruna;GLP;3772
+1303;feb-24;Galicia;Lugo;BIODIESEL;0
+1304;feb-24;Galicia;Lugo;GASOLEO A;16102
+1305;feb-24;Galicia;Lugo;GASOLEO B;4047
+1306;feb-24;Galicia;Lugo;GASOLEO C;3880
+1307;feb-24;Galicia;Lugo;OTROS GASOLEOS;1354
+1308;feb-24;Galicia;Lugo;BIOETANOL;0
+1309;feb-24;Galicia;Lugo;GASOLINA  AUTO. S/PB 95 i.O.;2382
+1310;feb-24;Galicia;Lugo;GASOLINA  AUTO. S/PB 98 i.O.;91
+1311;feb-24;Galicia;Lugo;OTRAS GASOLINAS;0
+1312;feb-24;Galicia;Lugo;FUELOLEO  BIA;25
+1313;feb-24;Galicia;Lugo;OTROS FUELOLEOS;55
+1314;feb-24;Galicia;Lugo;QUEROSENO AVIACION;0
+1315;feb-24;Galicia;Lugo;OTROS QUEROSENOS;0
+1316;feb-24;Galicia;Lugo;GLP;1676
+1317;feb-24;Galicia;Ourense;BIODIESEL;0
+1318;feb-24;Galicia;Ourense;GASOLEO A;12371
+1319;feb-24;Galicia;Ourense;GASOLEO B;2093
+1320;feb-24;Galicia;Ourense;GASOLEO C;4866
+1321;feb-24;Galicia;Ourense;OTROS GASOLEOS;0
+1322;feb-24;Galicia;Ourense;BIOETANOL;0
+1323;feb-24;Galicia;Ourense;GASOLINA  AUTO. S/PB 95 i.O.;2198
+1324;feb-24;Galicia;Ourense;GASOLINA  AUTO. S/PB 98 i.O.;137
+1325;feb-24;Galicia;Ourense;OTRAS GASOLINAS;1
+1326;feb-24;Galicia;Ourense;FUELOLEO  BIA;160
+1327;feb-24;Galicia;Ourense;OTROS FUELOLEOS;0
+1328;feb-24;Galicia;Ourense;QUEROSENO AVIACION;0
+1329;feb-24;Galicia;Ourense;OTROS QUEROSENOS;0
+1330;feb-24;Galicia;Ourense;GLP;1504
+1331;feb-24;Galicia;Pontevedra;BIODIESEL;0
+1332;feb-24;Galicia;Pontevedra;GASOLEO A;33164
+1333;feb-24;Galicia;Pontevedra;GASOLEO B;4078
+1334;feb-24;Galicia;Pontevedra;GASOLEO C;5560
+1335;feb-24;Galicia;Pontevedra;OTROS GASOLEOS;4491
+1336;feb-24;Galicia;Pontevedra;BIOETANOL;0
+1337;feb-24;Galicia;Pontevedra;GASOLINA  AUTO. S/PB 95 i.O.;7255
+1338;feb-24;Galicia;Pontevedra;GASOLINA  AUTO. S/PB 98 i.O.;380
+1339;feb-24;Galicia;Pontevedra;OTRAS GASOLINAS;1
+1340;feb-24;Galicia;Pontevedra;FUELOLEO  BIA;652
+1341;feb-24;Galicia;Pontevedra;OTROS FUELOLEOS;335
+1342;feb-24;Galicia;Pontevedra;QUEROSENO AVIACION;390
+1343;feb-24;Galicia;Pontevedra;OTROS QUEROSENOS;0
+1344;feb-24;Galicia;Pontevedra;GLP;3338
+1345;feb-24;Comunidad de Madrid;Madrid;BIODIESEL;81
+1346;feb-24;Comunidad de Madrid;Madrid;GASOLEO A;138911
+1347;feb-24;Comunidad de Madrid;Madrid;GASOLEO B;11911
+1348;feb-24;Comunidad de Madrid;Madrid;GASOLEO C;22409
+1349;feb-24;Comunidad de Madrid;Madrid;OTROS GASOLEOS;0
+1350;feb-24;Comunidad de Madrid;Madrid;BIOETANOL;0
+1351;feb-24;Comunidad de Madrid;Madrid;GASOLINA  AUTO. S/PB 95 i.O.;60554
+1352;feb-24;Comunidad de Madrid;Madrid;GASOLINA  AUTO. S/PB 98 i.O.;2207
+1353;feb-24;Comunidad de Madrid;Madrid;OTRAS GASOLINAS;50
+1354;feb-24;Comunidad de Madrid;Madrid;FUELOLEO  BIA;264
+1355;feb-24;Comunidad de Madrid;Madrid;OTROS FUELOLEOS;0
+1356;feb-24;Comunidad de Madrid;Madrid;QUEROSENO AVIACION;190567
+1357;feb-24;Comunidad de Madrid;Madrid;OTROS QUEROSENOS;0
+1358;feb-24;Comunidad de Madrid;Madrid;GLP;10861
+1359;feb-24;Melilla;Melilla;BIODIESEL;0
+1360;feb-24;Melilla;Melilla;GASOLEO A;990
+1361;feb-24;Melilla;Melilla;GASOLEO B;0
+1362;feb-24;Melilla;Melilla;GASOLEO C;0
+1363;feb-24;Melilla;Melilla;OTROS GASOLEOS;0
+1364;feb-24;Melilla;Melilla;BIOETANOL;0
+1365;feb-24;Melilla;Melilla;GASOLINA  AUTO. S/PB 95 i.O.;501
+1366;feb-24;Melilla;Melilla;GASOLINA  AUTO. S/PB 98 i.O.;0
+1367;feb-24;Melilla;Melilla;OTRAS GASOLINAS;0
+1368;feb-24;Melilla;Melilla;FUELOLEO  BIA;4872
+1369;feb-24;Melilla;Melilla;OTROS FUELOLEOS;0
+1370;feb-24;Melilla;Melilla;QUEROSENO AVIACION;128
+1371;feb-24;Melilla;Melilla;OTROS QUEROSENOS;0
+1372;feb-24;Melilla;Melilla;GLP;200
+1373;feb-24;Region de Murcia;Murcia;BIODIESEL;87
+1374;feb-24;Region de Murcia;Murcia;GASOLEO A;71929
+1375;feb-24;Region de Murcia;Murcia;GASOLEO B;10824
+1376;feb-24;Region de Murcia;Murcia;GASOLEO C;954
+1377;feb-24;Region de Murcia;Murcia;OTROS GASOLEOS;1141
+1378;feb-24;Region de Murcia;Murcia;BIOETANOL;0
+1379;feb-24;Region de Murcia;Murcia;GASOLINA  AUTO. S/PB 95 i.O.;11453
+1380;feb-24;Region de Murcia;Murcia;GASOLINA  AUTO. S/PB 98 i.O.;504
+1381;feb-24;Region de Murcia;Murcia;OTRAS GASOLINAS;1
+1382;feb-24;Region de Murcia;Murcia;FUELOLEO  BIA;408
+1383;feb-24;Region de Murcia;Murcia;OTROS FUELOLEOS;223
+1384;feb-24;Region de Murcia;Murcia;QUEROSENO AVIACION;559
+1385;feb-24;Region de Murcia;Murcia;OTROS QUEROSENOS;0
+1386;feb-24;Region de Murcia;Murcia;GLP;4369
+1387;feb-24;Comunidad Foral de Navarra;Navarra;BIODIESEL;123
+1388;feb-24;Comunidad Foral de Navarra;Navarra;GASOLEO A;51824
+1389;feb-24;Comunidad Foral de Navarra;Navarra;GASOLEO B;7650
+1390;feb-24;Comunidad Foral de Navarra;Navarra;GASOLEO C;1535
+1391;feb-24;Comunidad Foral de Navarra;Navarra;OTROS GASOLEOS;0
+1392;feb-24;Comunidad Foral de Navarra;Navarra;BIOETANOL;0
+1393;feb-24;Comunidad Foral de Navarra;Navarra;GASOLINA  AUTO. S/PB 95 i.O.;6143
+1394;feb-24;Comunidad Foral de Navarra;Navarra;GASOLINA  AUTO. S/PB 98 i.O.;206
+1395;feb-24;Comunidad Foral de Navarra;Navarra;OTRAS GASOLINAS;1
+1396;feb-24;Comunidad Foral de Navarra;Navarra;FUELOLEO  BIA;152
+1397;feb-24;Comunidad Foral de Navarra;Navarra;OTROS FUELOLEOS;0
+1398;feb-24;Comunidad Foral de Navarra;Navarra;QUEROSENO AVIACION;70
+1399;feb-24;Comunidad Foral de Navarra;Navarra;OTROS QUEROSENOS;0
+1400;feb-24;Comunidad Foral de Navarra;Navarra;GLP;1347
+1401;feb-24;Pais Vasco;Alava;BIODIESEL;29
+1402;feb-24;Pais Vasco;Alava;GASOLEO A;51522
+1403;feb-24;Pais Vasco;Alava;GASOLEO B;2670
+1404;feb-24;Pais Vasco;Alava;GASOLEO C;899
+1405;feb-24;Pais Vasco;Alava;OTROS GASOLEOS;0
+1406;feb-24;Pais Vasco;Alava;BIOETANOL;0
+1407;feb-24;Pais Vasco;Alava;GASOLINA  AUTO. S/PB 95 i.O.;2599
+1408;feb-24;Pais Vasco;Alava;GASOLINA  AUTO. S/PB 98 i.O.;110
+1409;feb-24;Pais Vasco;Alava;OTRAS GASOLINAS;0
+1410;feb-24;Pais Vasco;Alava;FUELOLEO  BIA;366
+1411;feb-24;Pais Vasco;Alava;OTROS FUELOLEOS;0
+1412;feb-24;Pais Vasco;Alava;QUEROSENO AVIACION;527
+1413;feb-24;Pais Vasco;Alava;OTROS QUEROSENOS;0
+1414;feb-24;Pais Vasco;Alava;GLP;647
+1415;feb-24;Pais Vasco;Bizkaia;BIODIESEL;118
+1416;feb-24;Pais Vasco;Bizkaia;GASOLEO A;40673
+1417;feb-24;Pais Vasco;Bizkaia;GASOLEO B;6630
+1418;feb-24;Pais Vasco;Bizkaia;GASOLEO C;4824
+1419;feb-24;Pais Vasco;Bizkaia;OTROS GASOLEOS;902
+1420;feb-24;Pais Vasco;Bizkaia;BIOETANOL;0
+1421;feb-24;Pais Vasco;Bizkaia;GASOLINA  AUTO. S/PB 95 i.O.;8215
+1422;feb-24;Pais Vasco;Bizkaia;GASOLINA  AUTO. S/PB 98 i.O.;351
+1423;feb-24;Pais Vasco;Bizkaia;OTRAS GASOLINAS;0
+1424;feb-24;Pais Vasco;Bizkaia;FUELOLEO  BIA;281
+1425;feb-24;Pais Vasco;Bizkaia;OTROS FUELOLEOS;0
+1426;feb-24;Pais Vasco;Bizkaia;QUEROSENO AVIACION;4098
+1427;feb-24;Pais Vasco;Bizkaia;OTROS QUEROSENOS;1
+1428;feb-24;Pais Vasco;Bizkaia;GLP;1433
+1429;feb-24;Pais Vasco;Gipuzkoa;BIODIESEL;19
+1430;feb-24;Pais Vasco;Gipuzkoa;GASOLEO A;56662
+1431;feb-24;Pais Vasco;Gipuzkoa;GASOLEO B;2123
+1432;feb-24;Pais Vasco;Gipuzkoa;GASOLEO C;334
+1433;feb-24;Pais Vasco;Gipuzkoa;OTROS GASOLEOS;381
+1434;feb-24;Pais Vasco;Gipuzkoa;BIOETANOL;0
+1435;feb-24;Pais Vasco;Gipuzkoa;GASOLINA  AUTO. S/PB 95 i.O.;6233
+1436;feb-24;Pais Vasco;Gipuzkoa;GASOLINA  AUTO. S/PB 98 i.O.;291
+1437;feb-24;Pais Vasco;Gipuzkoa;OTRAS GASOLINAS;1
+1438;feb-24;Pais Vasco;Gipuzkoa;FUELOLEO  BIA;75
+1439;feb-24;Pais Vasco;Gipuzkoa;OTROS FUELOLEOS;0
+1440;feb-24;Pais Vasco;Gipuzkoa;QUEROSENO AVIACION;323
+1441;feb-24;Pais Vasco;Gipuzkoa;OTROS QUEROSENOS;0
+1442;feb-24;Pais Vasco;Gipuzkoa;GLP;1730
+1443;feb-24;La Rioja;La Rioja;BIODIESEL;0
+1444;feb-24;La Rioja;La Rioja;GASOLEO A;12956
+1445;feb-24;La Rioja;La Rioja;GASOLEO B;3155
+1446;feb-24;La Rioja;La Rioja;GASOLEO C;2123
+1447;feb-24;La Rioja;La Rioja;OTROS GASOLEOS;0
+1448;feb-24;La Rioja;La Rioja;BIOETANOL;0
+1449;feb-24;La Rioja;La Rioja;GASOLINA  AUTO. S/PB 95 i.O.;2357
+1450;feb-24;La Rioja;La Rioja;GASOLINA  AUTO. S/PB 98 i.O.;75
+1451;feb-24;La Rioja;La Rioja;OTRAS GASOLINAS;0
+1452;feb-24;La Rioja;La Rioja;FUELOLEO  BIA;81
+1453;feb-24;La Rioja;La Rioja;OTROS FUELOLEOS;0
+1454;feb-24;La Rioja;La Rioja;QUEROSENO AVIACION;0
+1455;feb-24;La Rioja;La Rioja;OTROS QUEROSENOS;0
+1456;feb-24;La Rioja;La Rioja;GLP;663
